@@ -5506,5 +5506,7008 @@
         "no_speech_prob": 0.010355197824537754
       }
     ]
+  },
+  "55534": {
+    "text": "Sie hat immer ein Lächeln auf den Lippen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Sie hat immer ein Lächeln auf den Lippen.",
+        "avg_logprob": -0.18419369123876095,
+        "no_speech_prob": 0.003857540898025036
+      }
+    ]
+  },
+  "55535": {
+    "text": "Was gibt es denn zu lachen?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Was gibt es denn zu lachen?",
+        "avg_logprob": -0.19659111445600336,
+        "no_speech_prob": 0.01667332462966442
+      }
+    ]
+  },
+  "55536": {
+    "text": "Ich gehe in den Laden, um einiges einzukaufen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Ich gehe in den Laden, um einiges einzukaufen.",
+        "avg_logprob": -0.21661126054823399,
+        "no_speech_prob": 0.0028054292779415846
+      }
+    ]
+  },
+  "55537": {
+    "text": "Wo ist der Schalter für die Lampe?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Wo ist der Schalter für die Lampe?",
+        "avg_logprob": -0.24218831612513617,
+        "no_speech_prob": 0.02136276476085186
+      }
+    ]
+  },
+  "55538": {
+    "text": "In welchen Ländern warst du schon?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "In welchen Ländern warst du schon?",
+        "avg_logprob": -0.2761702115337054,
+        "no_speech_prob": 0.008734508417546749
+      }
+    ]
+  },
+  "55539": {
+    "text": "Haben Sie eine Landkarte von der Stadt?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Haben Sie eine Landkarte von der Stadt?",
+        "avg_logprob": -0.2674346978847797,
+        "no_speech_prob": 0.0032676029950380325
+      }
+    ]
+  },
+  "55540": {
+    "text": "Lange nicht gesehen!",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Lange nicht gesehen!",
+        "avg_logprob": -0.4765850380063057,
+        "no_speech_prob": 0.006910907570272684
+      }
+    ]
+  },
+  "55541": {
+    "text": "Diese Länge ist nicht richtig.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Diese Länge ist nicht richtig.",
+        "avg_logprob": -0.3744217872619629,
+        "no_speech_prob": 0.012499852105975151
+      }
+    ]
+  },
+  "55542": {
+    "text": "Er bewegt sich eher langsam.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Er bewegt sich eher langsam.",
+        "avg_logprob": -0.3233527421951294,
+        "no_speech_prob": 0.0027315106708556414
+      }
+    ]
+  },
+  "55543": {
+    "text": "Ich will diesen langweiligen Tratsch nicht hören.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Ich will diesen langweiligen Tratsch nicht hören.",
+        "avg_logprob": -0.2738750260323286,
+        "no_speech_prob": 0.07081771641969681
+      }
+    ]
+  },
+  "55544": {
+    "text": "Formalitäten zu erledigen ist wirklich lästig.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Formalitäten zu erledigen ist wirklich lästig.",
+        "avg_logprob": -0.22453767713159323,
+        "no_speech_prob": 0.00326035195030272
+      }
+    ]
+  },
+  "55545": {
+    "text": "Wir lassen es einmal laufen und sehen, ob es funktioniert.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 5.0,
+        "text": "Wir lassen es einmal laufen und sehen, ob es funktioniert.",
+        "avg_logprob": -0.2479071259498596,
+        "no_speech_prob": 0.0011767036048695445
+      }
+    ]
+  },
+  "55546": {
+    "text": "Ich habe schlechte Laune. Lass mich in Ruhe.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Ich habe schlechte Laune. Lass mich in Ruhe.",
+        "avg_logprob": -0.2822452152476591,
+        "no_speech_prob": 0.005811598617583513
+      }
+    ]
+  },
+  "55547": {
+    "text": "Die Lebensgewohnheiten meines Mitbewohners sind sehr schlecht.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 5.0,
+        "text": "Die Lebensgewohnheiten meines Mitbewohners sind sehr schlecht.",
+        "avg_logprob": -0.22288841174708474,
+        "no_speech_prob": 0.0051489961333572865
+      }
+    ]
+  },
+  "55548": {
+    "text": "Ich habe fünf Jahre in dieser Stadt gelebt.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 5.0,
+        "text": "Ich habe fünf Jahre in dieser Stadt gelebt.",
+        "avg_logprob": -0.24233161486112154,
+        "no_speech_prob": 0.009288511238992214
+      }
+    ]
+  },
+  "55549": {
+    "text": "Dieses Gericht ist sehr lecker.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Dieses Gericht ist sehr lecker.",
+        "avg_logprob": -0.2778611128980463,
+        "no_speech_prob": 0.0024169571697711945
+      }
+    ]
+  },
+  "55550": {
+    "text": "Bitte leg das Buch auf den Tisch.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Bitte leg das Buch auf den Tisch.",
+        "avg_logprob": -0.3136037425561385,
+        "no_speech_prob": 0.009249548427760601
+      }
+    ]
+  },
+  "55551": {
+    "text": "Meine Tante ist Musiklehrerin.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 5.0,
+        "text": "Meine Tante ist Musiklehrerin.",
+        "avg_logprob": -0.2723645120859146,
+        "no_speech_prob": 0.01579597219824791
+      }
+    ]
+  },
+  "55552": {
+    "text": "Es tut mir leid, das ist alles meine Schuld.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.3200000000000003,
+        "text": "Es tut mir leid, das ist alles meine Schuld.",
+        "avg_logprob": -0.3256436069806417,
+        "no_speech_prob": 0.011408856138586998
+      }
+    ]
+  },
+  "55553": {
+    "text": "Bei Liebeskummer leide ich sehr.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.2,
+        "text": "Bei Liebeskummer leide ich sehr.",
+        "avg_logprob": -0.2843224910589365,
+        "no_speech_prob": 0.012014920823276043
+      }
+    ]
+  },
+  "55554": {
+    "text": "Ich leihe dir mein Auto.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Ich leihere dir mein Auto.",
+        "avg_logprob": -0.48118965192274615,
+        "no_speech_prob": 0.002701046410948038
+      }
+    ],
+    "batch_680_review_pass": {
+      "text": "Ich leihe dir mein Auto.",
+      "avg_logprob": [
+        -0.4871423136104237
+      ]
+    },
+    "original_text": "Ich leihere dir mein Auto."
+  },
+  "55555": {
+    "text": "Ich lerne jetzt Deutsch.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Ich lerne jetzt Deutsch.",
+        "avg_logprob": -0.39881618817647296,
+        "no_speech_prob": 0.012568029575049877
+      }
+    ]
+  },
+  "55556": {
+    "text": "Opa liest die Zeitung.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Opa liest die Zeitung.",
+        "avg_logprob": -0.3805689378218217,
+        "no_speech_prob": 0.14307217299938202
+      }
+    ]
+  },
+  "55557": {
+    "text": "Die Schule hat seit letzter Woche Ferien.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Die Schule hat seit letzter Woche Ferien.",
+        "avg_logprob": -0.24477869730729324,
+        "no_speech_prob": 0.0019352238159626722
+      }
+    ]
+  },
+  "55558": {
+    "text": "Wie viele Leute sind im Unterrichtsraum?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 5.0,
+        "text": "Wie viele Leute sind im Unterrichtsraum?",
+        "avg_logprob": -0.23808351846841666,
+        "no_speech_prob": 0.025509370490908623
+      }
+    ]
+  },
+  "55559": {
+    "text": "Das Licht drinnen ist sehr hell.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Das Licht drinnen ist sehr hell.",
+        "avg_logprob": -0.3282305056398565,
+        "no_speech_prob": 0.0031938685569912195
+      }
+    ]
+  },
+  "55560": {
+    "text": "Ich liebe dich.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Ich liebe dich.",
+        "avg_logprob": -0.39560651779174805,
+        "no_speech_prob": 0.02847319096326828
+      }
+    ]
+  },
+  "55561": {
+    "text": "Dieses Lied klingt sehr schön.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Dieses Lied klingt sehr schön.",
+        "avg_logprob": -0.3454845872792331,
+        "no_speech_prob": 0.006468729581683874
+      }
+    ]
+  },
+  "55562": {
+    "text": "Ich brauche zwei Lieferwagen für meinen Umzug.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.2800000000000002,
+        "text": "Ich brauche zwei Lieferwagen für meinen Umzug.",
+        "avg_logprob": -0.1997197190920512,
+        "no_speech_prob": 0.0014672494726255536
+      }
+    ]
+  },
+  "55563": {
+    "text": "Der Hund liegt auf der Wiese in der Sonne.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Der Hund liegt auf der Wiese in der Sonne.",
+        "avg_logprob": -0.22764210104942323,
+        "no_speech_prob": 0.026834143325686455
+      }
+    ]
+  },
+  "55564": {
+    "text": "Miss mal mit dem Lineal nach.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Miss mal mit dem Lineal nach.",
+        "avg_logprob": -0.5418889089064165,
+        "no_speech_prob": 0.019519763067364693
+      }
+    ]
+  },
+  "55565": {
+    "text": "Die Toilette ist links vom Fahrstuhl.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Die Toilette ist links vom Fahrstuhl.",
+        "avg_logprob": -0.1808010478814443,
+        "no_speech_prob": 0.009855028241872787
+      }
+    ]
+  },
+  "55566": {
+    "text": "Sie stellt eine Liste der Verheirateten zusammen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Sie stellt eine Liste der Verheirateten zusammen.",
+        "avg_logprob": -0.23739340715110302,
+        "no_speech_prob": 0.009012814611196518
+      }
+    ]
+  },
+  "55567": {
+    "text": "Ich bin es gewohnt mit dem Löffel zu essen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Ich bin es gewohnt mit dem Löffel zu essen.",
+        "avg_logprob": -0.22085020121406107,
+        "no_speech_prob": 0.00565303722396493
+      }
+    ]
+  },
+  "55568": {
+    "text": "Hast du dein Problem gelöst?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.56,
+        "text": "Hast du dein Problem gelöst?",
+        "avg_logprob": -0.36893229782581327,
+        "no_speech_prob": 0.01192255225032568
+      }
+    ]
+  },
+  "55569": {
+    "text": "Mein Sternzeichen ist Löwe.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Mein Sternzeichen ist Löwe.",
+        "avg_logprob": -0.33727561885660345,
+        "no_speech_prob": 0.038511160761117935
+      }
+    ]
+  },
+  "55570": {
+    "text": "Auf dem Berg ist die Luft sehr frisch.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Auf dem Berg ist die Luft sehr frisch.",
+        "avg_logprob": -0.3139422214948214,
+        "no_speech_prob": 0.0031383701134473085
+      }
+    ]
+  },
+  "55571": {
+    "text": "Ich lade dich in ein luxuriöses Restaurant ein.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Ich lade dich in ein luxuriöses Restaurant ein.",
+        "avg_logprob": -0.2221253514289856,
+        "no_speech_prob": 0.0018122572218999267
+      }
+    ]
+  },
+  "55572": {
+    "text": "Brot wird aus Mehl gemacht.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Brot wird aus Mehl gemacht.",
+        "avg_logprob": -0.3051921454342929,
+        "no_speech_prob": 0.013566473498940468
+      }
+    ]
+  },
+  "55573": {
+    "text": "Das Mädchen trägt ein rotes Kleid.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Das Mädchen trägt ein rotes Kleid.",
+        "avg_logprob": -0.27149184473923277,
+        "no_speech_prob": 0.0025659026578068733
+      }
+    ]
+  },
+  "55574": {
+    "text": "Mein Magen tut so weh.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Mein Magen tut so weh.",
+        "avg_logprob": -0.30047140338204126,
+        "no_speech_prob": 0.04089053347706795
+      }
+    ]
+  },
+  "55575": {
+    "text": "Herr Wagner hat im Mai seine Arbeit verloren.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.2800000000000002,
+        "text": "Herr Wagner hat im Mai seine Arbeit verloren.",
+        "avg_logprob": -0.31232977906862897,
+        "no_speech_prob": 0.0014409917639568448
+      }
+    ]
+  },
+  "55576": {
+    "text": "Wie viel kostet einmal?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Wie viel kostet einmal?",
+        "avg_logprob": -0.3002738422817654,
+        "no_speech_prob": 0.0032532638870179653
+      }
+    ],
+    "batch_680_review_pass": {
+      "text": "Wie viel kostet einmal?",
+      "avg_logprob": [
+        -0.3018849690755208
+      ]
+    },
+    "needs_manual_review": true
+  },
+  "55577": {
+    "text": "Ich lerne gerade malen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.38,
+        "text": "Ich lerne gerade malen.",
+        "avg_logprob": -0.4201805144548416,
+        "no_speech_prob": 0.009336174465715885
+      }
+    ]
+  },
+  "55578": {
+    "text": "Dürer ist ein sehr berühmter Maler.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Dürer ist ein sehr berühmter Maler.",
+        "avg_logprob": -0.26923511177301407,
+        "no_speech_prob": 0.0028596105985343456
+      }
+    ]
+  },
+  "55579": {
+    "text": "Manchmal fahre ich mit dem Fahrrad zur Arbeit.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.2800000000000002,
+        "text": "Manchmal fahre ich mit dem Fahrrad zur Arbeit.",
+        "avg_logprob": -0.21292516496032476,
+        "no_speech_prob": 0.0008661003084853292
+      }
+    ]
+  },
+  "55580": {
+    "text": "Kennst du den Mann?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Kennst du den Mann?",
+        "avg_logprob": -0.40241485171847874,
+        "no_speech_prob": 0.05037664622068405
+      }
+    ]
+  },
+  "55581": {
+    "text": "Meine Fußballmannschaft hat gewonnen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.6,
+        "text": "Meine Fußballmannschaft hat gewonnen.",
+        "avg_logprob": -0.3383245251395486,
+        "no_speech_prob": 0.008232047781348228
+      }
+    ]
+  },
+  "55582": {
+    "text": "Ihre Kleidung besteht nur aus Markenartikeln.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.3200000000000003,
+        "text": "Ihre Kleidung besteht nur aus Markenartikeln.",
+        "avg_logprob": -0.21996065508574247,
+        "no_speech_prob": 0.0015704382676631212
+      }
+    ]
+  },
+  "55583": {
+    "text": "Welche Feiertage sind im März?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Welche Feiertage sind im März?",
+        "avg_logprob": -0.18139087695341843,
+        "no_speech_prob": 0.02619437500834465
+      }
+    ]
+  },
+  "55584": {
+    "text": "Kannst du mir die Schultern massieren?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Kannst du mir die Schultern massieren?",
+        "avg_logprob": -0.282293805709252,
+        "no_speech_prob": 0.006302862893790007
+      }
+    ]
+  },
+  "55585": {
+    "text": "Das ist genau das Material, das ich brauche.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 5.0,
+        "text": "Das ist genau das Material, das ich brauche.",
+        "avg_logprob": -0.2686142346688679,
+        "no_speech_prob": 0.017367927357554436
+      }
+    ]
+  },
+  "55586": {
+    "text": "Mein Cousin ist sehr gut in Mathematik.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Mein Cousin ist sehr gut in Mathematik.",
+        "avg_logprob": -0.24321337143580118,
+        "no_speech_prob": 0.025816956534981728
+      }
+    ]
+  },
+  "55587": {
+    "text": "Ich habe eine ziemlich große Maus gesehen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Ich habe eine ziemlich große Maus gesehen.",
+        "avg_logprob": -0.2301008328795433,
+        "no_speech_prob": 0.003354217391461134
+      }
+    ]
+  },
+  "55588": {
+    "text": "Hast du Medizin für den Magen?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Hast du Medizin für den Magen?",
+        "avg_logprob": -0.2782410855094592,
+        "no_speech_prob": 0.009302616119384766
+      }
+    ]
+  },
+  "55589": {
+    "text": "Magst du das Meer nicht?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Magst du das mehr nicht?",
+        "avg_logprob": -0.30210610628128054,
+        "no_speech_prob": 0.009895117953419685
+      }
+    ],
+    "batch_680_review_pass": {
+      "text": "Magst du das Meer nicht?",
+      "avg_logprob": [
+        -0.4000013440847397
+      ]
+    },
+    "original_text": "Magst du das mehr nicht?"
+  },
+  "55590": {
+    "text": "Meine Papiere sind verschwunden.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Meine Papiere sind verschwunden.",
+        "avg_logprob": -0.3164116089994257,
+        "no_speech_prob": 0.007736973464488983
+      }
+    ]
+  },
+  "55591": {
+    "text": "Ich lege viel Wert auf Ihre Meinung.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Ich lege viel Wert auf Ihre Meinung.",
+        "avg_logprob": -0.26340416570504505,
+        "no_speech_prob": 0.01592240482568741
+      }
+    ]
+  },
+  "55592": {
+    "text": "In letzter Zeit passieren merkwürdige Dinge.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.44,
+        "text": "In letzter Zeit passieren merkwürdige Dinge.",
+        "avg_logprob": -0.24566084997994558,
+        "no_speech_prob": 0.0025231316685676575
+      }
+    ]
+  },
+  "55593": {
+    "text": "Lass uns mal deine Größe messen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Lass uns mal deine Größe messen.",
+        "avg_logprob": -0.2660918327478262,
+        "no_speech_prob": 0.0042990148067474365
+      }
+    ]
+  },
+  "55594": {
+    "text": "Gibt es noch eine andere Methode, das Problem zu lösen?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Gibt es noch eine andere Methode, das Problem zu lösen?",
+        "avg_logprob": -0.20746305502123302,
+        "no_speech_prob": 0.004958809353411198
+      }
+    ]
+  },
+  "55595": {
+    "text": "Ich trinke jeden Tag vor dem Schlafengehen Milch.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.5,
+        "text": "Ich trinke jeden Tag vor dem Schlafengehen millig.",
+        "avg_logprob": -0.3018435587485631,
+        "no_speech_prob": 0.004190385807305574
+      }
+    ],
+    "batch_680_review_pass": {
+      "text": "Ich trinke jeden Tag vor dem Schlafengehen Milch.",
+      "avg_logprob": [
+        -0.21120834516154396
+      ]
+    },
+    "original_text": "Ich trinke jeden Tag vor dem Schlafengehen millig."
+  },
+  "55596": {
+    "text": "Ich wünschte, ich würde eine Million Rosen bekommen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Ich wünschte, ich würde eine Million Rosen bekommen.",
+        "avg_logprob": -0.2617977142333984,
+        "no_speech_prob": 0.011561774648725986
+      }
+    ]
+  },
+  "55597": {
+    "text": "Komm doch in 20 Minuten noch mal.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.24,
+        "text": "Kommen doch in 20 Minuten noch mal.",
+        "avg_logprob": -0.42928831775983173,
+        "no_speech_prob": 0.0026489237789064646
+      }
+    ],
+    "batch_680_review_pass": {
+      "text": "Komm doch in 20 Minuten noch mal.",
+      "avg_logprob": [
+        -0.39884559132836084
+      ]
+    },
+    "original_text": "Kommen doch in 20 Minuten noch mal."
+  },
+  "55598": {
+    "text": "Er ist gerade mit einem Kunden beschäftigt.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Er ist gerade mit einem Kunden beschäftigt.",
+        "avg_logprob": -0.2685674726963043,
+        "no_speech_prob": 0.0014841759111732244
+      }
+    ]
+  },
+  "55599": {
+    "text": "Ich bin zum vorbildlichen Mitarbeiter gewählt worden.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Ich bin zum vorbildlichen Mitarbeiter gewählt worden.",
+        "avg_logprob": -0.20659962615796498,
+        "no_speech_prob": 0.0056527904234826565
+      }
+    ]
+  },
+  "55600": {
+    "text": "Ich habe eine gute Nachricht mitgebracht.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Ich habe eine gute Nachricht mitgebracht.",
+        "avg_logprob": -0.24652895560631385,
+        "no_speech_prob": 0.00048372161109000444
+      }
+    ]
+  },
+  "55601": {
+    "text": "Ich habe kein Gepäck mitgenommen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Ich habe kein Gepäck mitgenommen.",
+        "avg_logprob": -0.29020508436056286,
+        "no_speech_prob": 0.0094663230702281
+      }
+    ]
+  },
+  "55602": {
+    "text": "Am Mittag scheint die Sonne am stärksten.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.4,
+        "text": "Am Mittag scheint die Sonne am stärksten.",
+        "avg_logprob": -0.16359429558118185,
+        "no_speech_prob": 0.0034565518144518137
+      }
+    ]
+  },
+  "55603": {
+    "text": "Ich mache immer Mittagsschlaf.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Ich mache immer Mittagsschlaf.",
+        "avg_logprob": -0.4061471124490102,
+        "no_speech_prob": 0.009593241848051548
+      }
+    ]
+  },
+  "55604": {
+    "text": "Wer ist der in der Mitte?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Wer ist der in der Mitte?",
+        "avg_logprob": -0.22148869335651397,
+        "no_speech_prob": 0.02411208301782608
+      }
+    ]
+  },
+  "55605": {
+    "text": "Ich möchte einen mittelgroßen Kleiderschrank kaufen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Ich möchte einen mittelgroßen Kleiderschrank kaufen.",
+        "avg_logprob": -0.21827885415405035,
+        "no_speech_prob": 0.0066446647979319096
+      }
+    ]
+  },
+  "55606": {
+    "text": "Wer klopft denn um Mitternacht an die Tür?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Wer klopft denn um Mitternacht an die Tür?",
+        "avg_logprob": -0.2064082771539688,
+        "no_speech_prob": 0.007139813154935837
+      }
+    ]
+  },
+  "55607": {
+    "text": "Nächste Woche Mittwoch ist ein Feiertag.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 5.0,
+        "text": "Nächste Woche Mittwoch ist ein Feiertag.",
+        "avg_logprob": -0.20520076621323824,
+        "no_speech_prob": 0.005801424849778414
+      }
+    ]
+  },
+  "55608": {
+    "text": "Ich will gebrauchte Möbel kaufen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Ich will gebrauchte Möbel kaufen.",
+        "avg_logprob": -0.2304265137229647,
+        "no_speech_prob": 0.011359723284840584
+      }
+    ]
+  },
+  "55609": {
+    "text": "Ich will Model werden.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Ich will Model werden.",
+        "avg_logprob": -0.3266226761043072,
+        "no_speech_prob": 0.008873836137354374
+      }
+    ]
+  },
+  "55610": {
+    "text": "Dies ist ein Versuchsmodell.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Dies ist ein Versuchsmodell.",
+        "avg_logprob": -0.36036724394018,
+        "no_speech_prob": 0.0034099232871085405
+      }
+    ]
+  },
+  "55611": {
+    "text": "Dies ist der modernste Computer.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.44,
+        "text": "Dies ist der modernste Computer.",
+        "avg_logprob": -0.3514559894800186,
+        "no_speech_prob": 0.012448660098016262
+      }
+    ]
+  },
+  "55612": {
+    "text": "Bitte antworten Sie mir möglichst schnell.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Bitte antworten Sie mir möglichst schnell.",
+        "avg_logprob": -0.2807219053308169,
+        "no_speech_prob": 0.011714792810380459
+      }
+    ]
+  },
+  "55613": {
+    "text": "Wie viele Monate hat ein Jahr?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Wie viele Monate hat ein Jahr?",
+        "avg_logprob": -0.3046462655067444,
+        "no_speech_prob": 0.022053098306059837
+      }
+    ]
+  },
+  "55614": {
+    "text": "Heute ist der Mond sehr rund.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.32,
+        "text": "Heute ist der Mond sehr rund.",
+        "avg_logprob": -0.3349629521369934,
+        "no_speech_prob": 0.01036224514245987
+      }
+    ]
+  },
+  "55615": {
+    "text": "Am Montag fange ich an zu arbeiten.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Am Montag fange ich an zu arbeiten.",
+        "avg_logprob": -0.2660148602265578,
+        "no_speech_prob": 0.00485026091337204
+      }
+    ]
+  },
+  "55616": {
+    "text": "Ich stehe jeden Morgen um 7 Uhr auf.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 5.0,
+        "text": "Ich stehe jeden Morgen um 7 Uhr auf.",
+        "avg_logprob": -0.29366846267993635,
+        "no_speech_prob": 0.009548977948725224
+      }
+    ]
+  },
+  "55617": {
+    "text": "Welcher Wochentag ist morgen?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Welcher Wochentag ist morgen?",
+        "avg_logprob": -0.2978786552945773,
+        "no_speech_prob": 0.011226112022995949
+      }
+    ]
+  },
+  "55618": {
+    "text": "Ich bin von einer Mücke gestochen worden.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Ich bin von einer Mücke gestochen worden.",
+        "avg_logprob": -0.22852395474910736,
+        "no_speech_prob": 0.004725428763777018
+      }
+    ]
+  },
+  "55619": {
+    "text": "Bitte machen Sie den Mund auf.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Bitte machen Sie den Mund auf.",
+        "avg_logprob": -0.3362519681453705,
+        "no_speech_prob": 0.016205137595534325
+      }
+    ]
+  },
+  "55620": {
+    "text": "Hast du eine Münze?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Hast du eine Münze?",
+        "avg_logprob": -0.419536034266154,
+        "no_speech_prob": 0.09919405728578568
+      }
+    ]
+  },
+  "55621": {
+    "text": "Was für ein Museum möchtest du besichtigen?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 5.0,
+        "text": "Was für ein Museum möchtest du besichtigen?",
+        "avg_logprob": -0.2674541076024373,
+        "no_speech_prob": 0.014325682073831558
+      }
+    ]
+  },
+  "55622": {
+    "text": "Wenn ich Musik höre, wird meine Laune besser.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.5,
+        "text": "Wenn ich Musik höre, wird meine Laune besser.",
+        "avg_logprob": -0.2708877921104431,
+        "no_speech_prob": 0.005160365719348192
+      }
+    ]
+  },
+  "55623": {
+    "text": "Ich nenne meine Mutter immer Mama.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Ich nenne meine Mutter immer Mama.",
+        "avg_logprob": -0.3139844265851108,
+        "no_speech_prob": 0.005705347750335932
+      }
+    ]
+  },
+  "55624": {
+    "text": "Ich will nach Heidelberg.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Ich will nach Heidelberg.",
+        "avg_logprob": -0.2990314096212387,
+        "no_speech_prob": 0.02608511596918106
+      }
+    ]
+  },
+  "55625": {
+    "text": "Ich entscheide das, nachdem ich mit ihr gesprochen habe.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.68,
+        "text": "Ich entscheide das, nachdem ich mit ihr gesprochen habe.",
+        "avg_logprob": -0.15494027640670538,
+        "no_speech_prob": 0.009736418724060059
+      }
+    ]
+  },
+  "55626": {
+    "text": "Lass mich noch mal nachdenken.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Lass mich noch mal nachdenken.",
+        "avg_logprob": -0.44071172674496967,
+        "no_speech_prob": 0.0067403423599898815
+      }
+    ]
+  },
+  "55627": {
+    "text": "Ich will nachher schwimmen gehen. Kommst du mit?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.5,
+        "text": "Ich will nachher schwimmen gehen. Kommst du mit?",
+        "avg_logprob": -0.3076196741312742,
+        "no_speech_prob": 0.005558767355978489
+      }
+    ]
+  },
+  "55628": {
+    "text": "Hast du am Nachmittag Zeit?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Hast du am Nachmittag Zeit?",
+        "avg_logprob": -0.31495898962020874,
+        "no_speech_prob": 0.03638351336121559
+      }
+    ]
+  },
+  "55629": {
+    "text": "Willst du eine Nachricht hinterlassen?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Willst du eine Nachricht hinterlassen?",
+        "avg_logprob": -0.3046754077076912,
+        "no_speech_prob": 0.004892142955213785
+      }
+    ]
+  },
+  "55630": {
+    "text": "Hast du die Nachrichten gesehen?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Hast du die Nachrichten gesehen?",
+        "avg_logprob": -0.25745711624622347,
+        "no_speech_prob": 0.005792202893644571
+      }
+    ]
+  },
+  "55631": {
+    "text": "Die nächste Nummer ist meine.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Die nächste Nummer ist meine.",
+        "avg_logprob": -0.3634902636210124,
+        "no_speech_prob": 0.015980206429958344
+      }
+    ]
+  },
+  "55632": {
+    "text": "Er sagt, dass er nächstes Jahr bestimmt heiraten wird.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Er sagt, dass er nächstes Jahr bestimmt heiraten wird.",
+        "avg_logprob": -0.20458212587982416,
+        "no_speech_prob": 0.001331707346253097
+      }
+    ]
+  },
+  "55633": {
+    "text": "Ist hier in der Nähe eine Toilette?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Ist hier in der Nähe eine Toilette?",
+        "avg_logprob": -0.19373290347201483,
+        "no_speech_prob": 0.02989726886153221
+      }
+    ]
+  },
+  "55634": {
+    "text": "Mein Haus ist nahe bei der Schule.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.44,
+        "text": "Mein Haus ist nahe bei der Schule.",
+        "avg_logprob": -0.27592811236778897,
+        "no_speech_prob": 0.012005493976175785
+      }
+    ]
+  },
+  "55635": {
+    "text": "Du hast da was an der Nase.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Du hast da was an der Nase.",
+        "avg_logprob": -0.33385873834292096,
+        "no_speech_prob": 0.01467391848564148
+      }
+    ]
+  },
+  "55636": {
+    "text": "Natürlich wird er das so machen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Natürlich wird er das so machen.",
+        "avg_logprob": -0.3217494249343872,
+        "no_speech_prob": 0.009138866327702999
+      }
+    ]
+  },
+  "55637": {
+    "text": "Komm, setz dich neben mich.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Komm, setz dich neben mich.",
+        "avg_logprob": -0.3198452971198342,
+        "no_speech_prob": 0.004467467777431011
+      }
+    ]
+  },
+  "55638": {
+    "text": "Hast du die CD genommen?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Hast du die CD genommen?",
+        "avg_logprob": -0.4103585084279378,
+        "no_speech_prob": 0.026633359491825104
+      }
+    ]
+  },
+  "55639": {
+    "text": "Ist jemand zu Hause? Nein.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Ist jemand zu Hause?",
+        "avg_logprob": -0.40164828052123386,
+        "no_speech_prob": 0.014597294852137566
+      },
+      {
+        "start": 3.0,
+        "end": 4.0,
+        "text": "Nein.",
+        "avg_logprob": -0.40164828052123386,
+        "no_speech_prob": 0.014597294852137566
+      }
+    ]
+  },
+  "55640": {
+    "text": "Dieser Bleistift ist nicht meiner.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Dieser Bleistift ist nicht meiner.",
+        "avg_logprob": -0.3104392506859519,
+        "no_speech_prob": 0.01458792481571436
+      }
+    ]
+  },
+  "55641": {
+    "text": "Ich weiß gar nichts.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Ich weiß gar nichts.",
+        "avg_logprob": -0.378435704857111,
+        "no_speech_prob": 0.025573760271072388
+      }
+    ]
+  },
+  "55642": {
+    "text": "Ich grüße meinen Chef mit einem Nicken.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.52,
+        "text": "Ich grüße meinen Chef mit einem Nicken.",
+        "avg_logprob": -0.244644039443561,
+        "no_speech_prob": 0.01905854605138302
+      }
+    ]
+  },
+  "55643": {
+    "text": "Ich habe ihn noch nie so glücklich gesehen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.72,
+        "text": "Ich habe ihn noch nie so glücklich gesehen.",
+        "avg_logprob": -0.2122901723935054,
+        "no_speech_prob": 0.007887901738286018
+      }
+    ]
+  },
+  "55644": {
+    "text": "Das Kind ist aber niedlich.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Das Kind ist aber niedlich.",
+        "avg_logprob": -0.30437313616275785,
+        "no_speech_prob": 0.003277433104813099
+      }
+    ]
+  },
+  "55645": {
+    "text": "Welche Dame ist noch nicht hier?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Welche Dame ist noch nicht hier?",
+        "avg_logprob": -0.3127092123031616,
+        "no_speech_prob": 0.027906257659196854
+      }
+    ]
+  },
+  "55646": {
+    "text": "Du sollst den gleichen Fehler nicht nochmal machen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.2800000000000002,
+        "text": "Du sollst den gleichen Fehler nicht nochmal machen.",
+        "avg_logprob": -0.3258113952783438,
+        "no_speech_prob": 0.0053179096430540085
+      }
+    ]
+  },
+  "55647": {
+    "text": "Im Norden ist das Klima kälter.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Im Norden ist das Klima kälter.",
+        "avg_logprob": -0.2163007397736822,
+        "no_speech_prob": 0.00189217587467283
+      }
+    ]
+  },
+  "55648": {
+    "text": "Dies ist ein ganz normales Spielzeug.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Dies ist ein ganz normales Spielzeug.",
+        "avg_logprob": -0.2388568619887034,
+        "no_speech_prob": 0.001230092952027917
+      }
+    ]
+  },
+  "55649": {
+    "text": "Vor dem Sport macht man normalerweise ein paar Aufwärmübungen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 5.5600000000000005,
+        "text": "Vor dem Sport macht man normalerweise ein paar Aufwärmübungen.",
+        "avg_logprob": -0.14490243792533875,
+        "no_speech_prob": 0.0140279121696949
+      }
+    ]
+  },
+  "55650": {
+    "text": "Kann ich diesen Notizblock haben?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Kann ich diesen Notizblock haben?",
+        "avg_logprob": -0.41423803026025946,
+        "no_speech_prob": 0.010465343482792377
+      }
+    ]
+  },
+  "55651": {
+    "text": "Ich habe mich entschlossen, im November zu kündigen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Ich habe mich entschlossen, im November zu kündigen.",
+        "avg_logprob": -0.2468286082148552,
+        "no_speech_prob": 0.0050525846891105175
+      }
+    ]
+  },
+  "55652": {
+    "text": "Wo kann man Nudeln kaufen?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Wo kann man Nudeln kaufen?",
+        "avg_logprob": -0.2228445356542414,
+        "no_speech_prob": 0.03850467503070831
+      }
+    ]
+  },
+  "55653": {
+    "text": "Wie ist deine Telefonnummer?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Wie ist deine Telefonnummer?",
+        "avg_logprob": -0.2547519857233221,
+        "no_speech_prob": 0.010153966955840588
+      }
+    ]
+  },
+  "55654": {
+    "text": "Was soll ich nun machen?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Was soll ich nun machen?",
+        "avg_logprob": -0.26260895199245876,
+        "no_speech_prob": 0.007252989802509546
+      }
+    ]
+  },
+  "55655": {
+    "text": "Diana hat nur eine Schwester.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Diana hat nur eine Schwester.",
+        "avg_logprob": -0.36314116716384887,
+        "no_speech_prob": 0.005923701450228691
+      }
+    ]
+  },
+  "55656": {
+    "text": "Egal ob es dafür eine Belohnung gibt oder nicht, ich bin bereit es zu machen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 5.72,
+        "text": "Egal ob es dafür eine Belohnung gibt oder nicht, ich bin bereit es zu machen.",
+        "avg_logprob": -0.15544364245041556,
+        "no_speech_prob": 0.001745031215250492
+      }
+    ]
+  },
+  "55657": {
+    "text": "Der Polizist feuerte nach oben in die Luft.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.5,
+        "text": "Der Polizist feuerte nach oben in die Luft.",
+        "avg_logprob": -0.23336913188298544,
+        "no_speech_prob": 0.0031777233816683292
+      }
+    ]
+  },
+  "55658": {
+    "text": "Hier gibt es viele Arten von Obst.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.56,
+        "text": "Hier gibt es viele Arten von Obst.",
+        "avg_logprob": -0.2473373871583205,
+        "no_speech_prob": 0.002101167570799589
+      }
+    ]
+  },
+  "55659": {
+    "text": "Obwohl du viele Fehler hast, liebe ich dich trotzdem.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.44,
+        "text": "Obwohl du viele Fehler hast, liebe ich dich trotzdem.",
+        "avg_logprob": -0.24749829371770224,
+        "no_speech_prob": 0.006426529493182898
+      }
+    ]
+  },
+  "55660": {
+    "text": "Gibt es hier ein öffentliches Telefon?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Gibt es hier ein öffentliches Telefon?",
+        "avg_logprob": -0.2601944391544049,
+        "no_speech_prob": 0.014479141682386398
+      }
+    ]
+  },
+  "55661": {
+    "text": "Wann fängt der Unterricht offiziell an?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Wann fängt der Unterricht offiziell an?",
+        "avg_logprob": -0.23359457651774088,
+        "no_speech_prob": 0.020704912021756172
+      }
+    ]
+  },
+  "55662": {
+    "text": "Nur mit diesem Schlüssel kann man die Tür öffnen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Nur mit diesem Schlüssel kann man die Tür öffnen.",
+        "avg_logprob": -0.16483867540955544,
+        "no_speech_prob": 0.001730975229293108
+      }
+    ]
+  },
+  "55663": {
+    "text": "Mein Bruder kommt oft spät nach Hause.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Mein Bruder kommt oft spät nach Hause.",
+        "avg_logprob": -0.24609952706557053,
+        "no_speech_prob": 0.004354341886937618
+      }
+    ]
+  },
+  "55664": {
+    "text": "Ohne dich kann ich nicht sein.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Ohne dich kann ich nicht sein.",
+        "avg_logprob": -0.2480007843537764,
+        "no_speech_prob": 0.004648623056709766
+      }
+    ]
+  },
+  "55665": {
+    "text": "Ich habe im Oktober mit Tom Schluss gemacht.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Ich habe im Oktober mit Tom Schluss gemacht.",
+        "avg_logprob": -0.22892490258583656,
+        "no_speech_prob": 0.002287826733663678
+      }
+    ]
+  },
+  "55666": {
+    "text": "Ist dies Erdnussöl oder Olivenöl?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.5,
+        "text": "Ist dies Erdnussöl oder Olivenöl?",
+        "avg_logprob": -0.25530983693897724,
+        "no_speech_prob": 0.015222888439893723
+      }
+    ]
+  },
+  "55667": {
+    "text": "Am Muttertag haben wir Oma besucht.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Am Muttertag haben wir Oma besucht.",
+        "avg_logprob": -0.2668265654490544,
+        "no_speech_prob": 0.00259751221165061
+      }
+    ]
+  },
+  "55668": {
+    "text": "Das ist mein Onkel Hans.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Das ist mein Onkel Hans.",
+        "avg_logprob": -0.22464213967323304,
+        "no_speech_prob": 0.006321187596768141
+      }
+    ]
+  },
+  "55669": {
+    "text": "Ich sehe mit meinem Opa fern.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Ich sehe mit meinem Opa fern.",
+        "avg_logprob": -0.261448194583257,
+        "no_speech_prob": 0.008491966873407364
+      }
+    ]
+  },
+  "55670": {
+    "text": "Diese Orange ist sehr süß.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.4,
+        "text": "Diese Orange ist sehr süß.",
+        "avg_logprob": -0.36278271675109863,
+        "no_speech_prob": 0.006297630723565817
+      }
+    ]
+  },
+  "55671": {
+    "text": "Welcher Ort ist günstiger für dich?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.32,
+        "text": "Welcher Ort ist günstiger für dich?",
+        "avg_logprob": -0.2344590975688054,
+        "no_speech_prob": 0.006478399503976107
+      }
+    ]
+  },
+  "55672": {
+    "text": "Die Sonne geht im Osten auf.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Die Sonne geht im Osten auf.",
+        "avg_logprob": -0.31999622533718747,
+        "no_speech_prob": 0.010652708820998669
+      }
+    ]
+  },
+  "55673": {
+    "text": "Wien ist die Hauptstadt von Österreich.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Wien ist die Hauptstadt von Österreich.",
+        "avg_logprob": -0.2959722951054573,
+        "no_speech_prob": 0.010298906825482845
+      }
+    ]
+  },
+  "55674": {
+    "text": "Mein Papa ist sehr gütig.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Mein Papa ist sehr gütig.",
+        "avg_logprob": -0.3242347999052568,
+        "no_speech_prob": 0.0027761217206716537
+      }
+    ]
+  },
+  "55675": {
+    "text": "Ich brauche ein Blatt Papier.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Ich brauche ein Blatt Papier.",
+        "avg_logprob": -0.22946747392416,
+        "no_speech_prob": 0.0033317424822598696
+      }
+    ]
+  },
+  "55676": {
+    "text": "Hast du mal ein Papiertaschentuch?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Hast du mal ein Papiertaschentuch?",
+        "avg_logprob": -0.2916876120226724,
+        "no_speech_prob": 0.008052421733736992
+      }
+    ]
+  },
+  "55677": {
+    "text": "Paris ist ein Shopping-Paradies.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Paris ist ein Shopping-Paradies.",
+        "avg_logprob": -0.2936665094815768,
+        "no_speech_prob": 0.026534872129559517
+      }
+    ]
+  },
+  "55678": {
+    "text": "Wir sehen uns heute Abend im Park.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Wir sehen uns heute Abend im Park.",
+        "avg_logprob": -0.33040019598874176,
+        "no_speech_prob": 0.0033040738198906183
+      }
+    ]
+  },
+  "55679": {
+    "text": "Du kannst ruhig hier parken.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Du kannst ruhig hier parken.",
+        "avg_logprob": -0.24432008916681464,
+        "no_speech_prob": 0.008743200451135635
+      }
+    ]
+  },
+  "55680": {
+    "text": "Es ist besser, das Auto auf einem Parkplatz zu parken.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Es ist besser, das Auto auf einem Parkplatz zu parken.",
+        "avg_logprob": -0.1897269277011647,
+        "no_speech_prob": 0.00021778809605166316
+      }
+    ]
+  },
+  "55681": {
+    "text": "Sie sind meine Partnerinnen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Sie sind meine Partnerinnen.",
+        "avg_logprob": -0.33031543095906574,
+        "no_speech_prob": 0.023556435480713844
+      }
+    ]
+  },
+  "55682": {
+    "text": "Sie ist eine schreckliche Person.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Sie ist eine schreckliche Person.",
+        "avg_logprob": -0.21532722494818948,
+        "no_speech_prob": 0.011060941964387894
+      }
+    ]
+  },
+  "55683": {
+    "text": "Mit noch ein bisschen mehr Pfeffer schmeckt es besser.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.5,
+        "text": "Mit noch ein bisschen mehr Pfeffer schmeckt es besser.",
+        "avg_logprob": -0.26362440548837185,
+        "no_speech_prob": 0.002545479219406843
+      }
+    ]
+  },
+  "55684": {
+    "text": "Der Polizist pfeift auf der Trillerpfeife.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.3200000000000003,
+        "text": "Der Polizist pfeift auf der Trillerpfeife.",
+        "avg_logprob": -0.2390831708908081,
+        "no_speech_prob": 0.02895526774227619
+      }
+    ]
+  },
+  "55685": {
+    "text": "Thomas kann gut mit Pferden umgehen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.68,
+        "text": "Thomas kann gut mit Pferden umgehen.",
+        "avg_logprob": -0.1593141922583947,
+        "no_speech_prob": 0.010557671077549458
+      }
+    ]
+  },
+  "55686": {
+    "text": "Er hat viele Pickel im Gesicht.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Er hat viele Pickel im Gesicht.",
+        "avg_logprob": -0.276009819724343,
+        "no_speech_prob": 0.020243339240550995
+      }
+    ]
+  },
+  "55687": {
+    "text": "Welche konkreten Pläne hast du für die Zukunft?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Welche konkreten Pläne hast du für die Zukunft?",
+        "avg_logprob": -0.20661490503698587,
+        "no_speech_prob": 0.003744057845324278
+      }
+    ]
+  },
+  "55688": {
+    "text": "Ich plane, nächsten Monat nach Hongkong zu fahren.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.44,
+        "text": "Ich plane, nächsten Monat nach Hongkong zu fahren.",
+        "avg_logprob": -0.2254029829055071,
+        "no_speech_prob": 0.0016903950599953532
+      }
+    ]
+  },
+  "55689": {
+    "text": "Dies ist mein Platz.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 1.48,
+        "text": "Dies ist mein Platz.",
+        "avg_logprob": -0.37298333644866943,
+        "no_speech_prob": 0.0456765852868557
+      }
+    ]
+  },
+  "55690": {
+    "text": "Lauf schnell zum Polizeirevier und hol Hilfe.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Lauf schnell zum Polizeirevier und hol Hilfe.",
+        "avg_logprob": -0.3100284298261007,
+        "no_speech_prob": 0.01872079260647297
+      }
+    ]
+  },
+  "55691": {
+    "text": "In meinem Portemonnaie ist gar kein Geld mehr.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.5,
+        "text": "In meinem Portemonnaie ist gar kein Geld mehr.",
+        "avg_logprob": -0.30730056365331015,
+        "no_speech_prob": 0.010923603549599648
+      }
+    ]
+  },
+  "55692": {
+    "text": "Ich arbeite auf dem Postamt.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Ich arbeite auf dem Postamt.",
+        "avg_logprob": -0.2120358022776517,
+        "no_speech_prob": 0.09185149520635605
+      }
+    ]
+  },
+  "55693": {
+    "text": "Das ist eine schöne Postkarte.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.5,
+        "text": "Das ist eine schöne Postkarte.",
+        "avg_logprob": -0.36947193470868195,
+        "no_speech_prob": 0.003620198927819729
+      }
+    ]
+  },
+  "55694": {
+    "text": "Dieser Preis ist zu hoch.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Dieser Preis ist zu hoch.",
+        "avg_logprob": -0.30825334125094944,
+        "no_speech_prob": 0.008698933757841587
+      }
+    ]
+  },
+  "55695": {
+    "text": "Ich habe einen Preis von 500 Ihren gewonnen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.5,
+        "text": "Ich habe einen Preis von 500 Ihren gewonnen.",
+        "avg_logprob": -0.4318128653935024,
+        "no_speech_prob": 0.002680612727999687
+      }
+    ],
+    "batch_680_review_pass": {
+      "text": "Ich habe einen Preis von 500 Ihren gewonnen.",
+      "avg_logprob": [
+        -0.3542515827076776
+      ]
+    },
+    "needs_manual_review": true
+  },
+  "55696": {
+    "text": "Wein muss man sorgfältig probieren.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.8,
+        "text": "Wein muss man sorgfältig probieren.",
+        "avg_logprob": -0.23508389507021224,
+        "no_speech_prob": 0.008498902432620525
+      }
+    ]
+  },
+  "55697": {
+    "text": "Herr Wagner ist Professor für Psychologie.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 5.0,
+        "text": "Herr Wagner ist Professor für Psychologie.",
+        "avg_logprob": -0.35116845911199396,
+        "no_speech_prob": 0.009086224250495434
+      }
+    ]
+  },
+  "55698": {
+    "text": "Bei der Zugangsprüfung wird auch Mathe geprüft.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Bei der Zugangsprüfung wird auch Mathe geprüft.",
+        "avg_logprob": -0.2321017069949044,
+        "no_speech_prob": 0.0032082439865916967
+      }
+    ]
+  },
+  "55699": {
+    "text": "Ich habe Vanillepudding gekocht. Möchtest du welchen?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Ich habe Vanillepudding gekocht. Möchtest du welchen?",
+        "avg_logprob": -0.22683424609048025,
+        "no_speech_prob": 0.004196905065327883
+      }
+    ]
+  },
+  "55700": {
+    "text": "Meine Oma hat einen Pullover für mich gestrickt.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Meine Oma hat einen Pullover für mich gestrickt.",
+        "avg_logprob": -0.19217449240386486,
+        "no_speech_prob": 0.006285772658884525
+      }
+    ]
+  },
+  "55701": {
+    "text": "Ein Fußballfeld ist kein Quadrat.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.44,
+        "text": "Ein Fußballfeld ist kein Quadrat.",
+        "avg_logprob": -0.3067929365418174,
+        "no_speech_prob": 0.004343834239989519
+      }
+    ]
+  },
+  "55702": {
+    "text": "Mein Bruder hat ein neues Radio gekauft.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.5,
+        "text": "Mein Bruder hat ein neues Radio gekauft.",
+        "avg_logprob": -0.32427810705625093,
+        "no_speech_prob": 0.0033990752417594194
+      }
+    ]
+  },
+  "55703": {
+    "text": "Rate mal!",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Rate mal!",
+        "avg_logprob": -0.6777481351579938,
+        "no_speech_prob": 0.2658674120903015
+      }
+    ]
+  },
+  "55704": {
+    "text": "Hier ist Rauchen verboten.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 1.52,
+        "text": "Hier ist Rauchen verboten.",
+        "avg_logprob": -0.33684336841106416,
+        "no_speech_prob": 0.010186648927628994
+      }
+    ]
+  },
+  "55705": {
+    "text": "Die Wäscherei ist rechts vom Blumenladen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Die Wäscherei ist rechts vom Blumenladen.",
+        "avg_logprob": -0.21873364225029945,
+        "no_speech_prob": 0.0038440905045717955
+      }
+    ]
+  },
+  "55706": {
+    "text": "Ich muss mal mit dem Lehrer reden.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Ich muss mal mit dem Lehrer reden.",
+        "avg_logprob": -0.3015881505879489,
+        "no_speech_prob": 0.01240118034183979
+      }
+    ]
+  },
+  "55707": {
+    "text": "Warum hältst du die Regeln nicht ein?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Warum hältst du die Regeln nicht ein?",
+        "avg_logprob": -0.2491960617212149,
+        "no_speech_prob": 0.0027701042126864195
+      }
+    ]
+  },
+  "55708": {
+    "text": "Im Norden fällt mehr Regen als im Süden.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.3200000000000003,
+        "text": "Im Norden fällt mehr Regen als im Süden.",
+        "avg_logprob": -0.23519516388575237,
+        "no_speech_prob": 0.0033516348339617252
+      }
+    ]
+  },
+  "55709": {
+    "text": "Guck mal, da ist ein Regenbogen am Himmel.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.08,
+        "text": "Guck mal, da ist ein Regenbogen am Himmel.",
+        "avg_logprob": -0.20736784901883867,
+        "no_speech_prob": 0.00740990974009037
+      }
+    ]
+  },
+  "55710": {
+    "text": "Kann ich mir deinen Regenschirm ausleihen?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Kann ich mir deinen Regenschirm ausleihen?",
+        "avg_logprob": -0.2651897945574352,
+        "no_speech_prob": 0.016795558854937553
+      }
+    ]
+  },
+  "55711": {
+    "text": "In letzter Zeit regnet es ständig.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "In letzter Zeit regnet es ständig.",
+        "avg_logprob": -0.17514254038150495,
+        "no_speech_prob": 0.019585391506552696
+      }
+    ]
+  },
+  "55712": {
+    "text": "Reib dir nicht immer die Augen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Reibt dir nicht immer die Augen.",
+        "avg_logprob": -0.4653842882676558,
+        "no_speech_prob": 0.03359128534793854
+      }
+    ],
+    "batch_680_review_pass": {
+      "text": "Reib dir nicht immer die Augen.",
+      "avg_logprob": [
+        -0.45065072449770843
+      ]
+    },
+    "original_text": "Reibt dir nicht immer die Augen."
+  },
+  "55713": {
+    "text": "Ich habe zwar nicht viel Geld, aber ich bin reich an Willenskraft.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 5.0,
+        "text": "Ich habe zwar nicht viel Geld, aber ich bin reich an Willenskraft.",
+        "avg_logprob": -0.15672595500946046,
+        "no_speech_prob": 0.006936243735253811
+      }
+    ]
+  },
+  "55714": {
+    "text": "Ich würde lieber Reis statt Nudeln essen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Ich würde lieber Reis statt Nudeln essen.",
+        "avg_logprob": -0.25139935527529034,
+        "no_speech_prob": 0.011498963460326195
+      }
+    ]
+  },
+  "55715": {
+    "text": "Welches Reisebüro ist günstiger?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Welches Reisebüro ist günstiger?",
+        "avg_logprob": -0.23733776410420734,
+        "no_speech_prob": 0.005427576135843992
+      }
+    ]
+  },
+  "55716": {
+    "text": "Wenn einem im Bus oder Auto übel wird, nennt man das Reisekrankheit.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 5.6000000000000005,
+        "text": "Wenn einem im Bus oder Auto übel wird, nennt man das Reisekrankheit.",
+        "avg_logprob": -0.15793947810712067,
+        "no_speech_prob": 0.0007674928638152778
+      }
+    ]
+  },
+  "55717": {
+    "text": "Am Wochenende will ich nach Köln reisen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 5.0,
+        "text": "Am Wochenende will ich nach Köln reisen.",
+        "avg_logprob": -0.24295371373494465,
+        "no_speech_prob": 0.005826366133987904
+      }
+    ]
+  },
+  "55718": {
+    "text": "Ich brauche einen neuen Reisepass.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Ich brauche einen neuen Reisepass.",
+        "avg_logprob": -0.27992479751507443,
+        "no_speech_prob": 0.002174277091398835
+      }
+    ]
+  },
+  "55719": {
+    "text": "Das Seil ist plötzlich gerissen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Das Seil ist plötzlich gerissen.",
+        "avg_logprob": -0.2925443107431585,
+        "no_speech_prob": 0.010265138931572437
+      }
+    ]
+  },
+  "55720": {
+    "text": "Wer kann meinen Wasserhahn reparieren?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Wer kann meinen Wasserhahn reparieren?",
+        "avg_logprob": -0.22596323738495508,
+        "no_speech_prob": 0.01103215105831623
+      }
+    ]
+  },
+  "55721": {
+    "text": "Sitzplätze im Flugzeug muss man reservieren.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.6,
+        "text": "Sitzplätze im Flugzeug muss man reservieren.",
+        "avg_logprob": -0.2154822627703349,
+        "no_speech_prob": 0.006237728986889124
+      }
+    ]
+  },
+  "55722": {
+    "text": "Im Restaurant sind sehr viele Gäste.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Im Restaurant sind sehr viele Gäste.",
+        "avg_logprob": -0.29633232951164246,
+        "no_speech_prob": 0.0055221146903932095
+      }
+    ]
+  },
+  "55723": {
+    "text": "Sie ist in Gefahr. Rette sie schnell.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Sie ist in Gefahr. Rette sie schnell.",
+        "avg_logprob": -0.36349508592060636,
+        "no_speech_prob": 0.038660928606987
+      }
+    ]
+  },
+  "55724": {
+    "text": "Ist das so richtig?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Ist das so richtig?",
+        "avg_logprob": -0.23515406996011734,
+        "no_speech_prob": 0.011267122812569141
+      }
+    ]
+  },
+  "55725": {
+    "text": "Anscheinend ist es nicht in dieser Richtung.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Anscheinend ist es nicht in dieser Richtung.",
+        "avg_logprob": -0.278167935518118,
+        "no_speech_prob": 0.008938929997384548
+      }
+    ]
+  },
+  "55726": {
+    "text": "Riechst du das?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Riechst du das?",
+        "avg_logprob": -0.4468716591596603,
+        "no_speech_prob": 0.009472361765801907
+      }
+    ]
+  },
+  "55727": {
+    "text": "Ich möchte Rindfleisch kaufen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Ich möchte Rindfleisch kaufen.",
+        "avg_logprob": -0.2849633585322987,
+        "no_speech_prob": 0.00829005241394043
+      }
+    ]
+  },
+  "55728": {
+    "text": "Rings um das Dorf fließt der Fluss.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Rings um das Dorf fließt der Fluss.",
+        "avg_logprob": -0.3695067297667265,
+        "no_speech_prob": 0.006715952418744564
+      }
+    ]
+  },
+  "55729": {
+    "text": "Dieser Rock ist sehr hübsch.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Dieser Rock ist sehr hübsch.",
+        "avg_logprob": -0.33480973293383914,
+        "no_speech_prob": 0.010664532892405987
+      }
+    ]
+  },
+  "55730": {
+    "text": "Wenn mir langweilig ist, lese ich Romane.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Wenn mir langweilig ist, lese ich Romane.",
+        "avg_logprob": -0.2531907418194939,
+        "no_speech_prob": 0.014658385887742043
+      }
+    ]
+  },
+  "55731": {
+    "text": "Ich gehe morgen in den Blumenladen, um zehn Rosen zu bestellen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 5.0,
+        "text": "Ich gehe morgen in den Blumenladen, um zehn Rosen zu bestellen.",
+        "avg_logprob": -0.20239481776952745,
+        "no_speech_prob": 0.006923061329871416
+      }
+    ]
+  },
+  "55732": {
+    "text": "Vor der Tür steht ein rotes Auto.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.5,
+        "text": "Vor der Tür steht ein rotes Auto.",
+        "avg_logprob": -0.25601902107397717,
+        "no_speech_prob": 0.027402138337492943
+      }
+    ]
+  },
+  "55733": {
+    "text": "Mein Rücken juckt so. Kratz doch bitte mal.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.2800000000000002,
+        "text": "Mein Rücken juckt so. Kratz doch bitte mal.",
+        "avg_logprob": -0.3453463386086857,
+        "no_speech_prob": 0.010486173443496227
+      }
+    ]
+  },
+  "55734": {
+    "text": "Ich glaube, jemand ruft mich.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.4,
+        "text": "Ich glaube, jemand ruft mich.",
+        "avg_logprob": -0.41571262207898224,
+        "no_speech_prob": 0.0459151566028595
+      }
+    ]
+  },
+  "55735": {
+    "text": "So ruhig ist es selten. Lass uns einen Tee trinken.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 5.0,
+        "text": "So ruhig ist es selten. Lass uns einen Tee trinken.",
+        "avg_logprob": -0.2565376654267311,
+        "no_speech_prob": 0.023919060826301575
+      }
+    ]
+  },
+  "55736": {
+    "text": "Ich möchte Tomatensalat essen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Ich möchte Tomatensalat essen.",
+        "avg_logprob": -0.2717083692550659,
+        "no_speech_prob": 0.008616310544312
+      }
+    ]
+  },
+  "55737": {
+    "text": "Kauf bitte eine Packung Salz für mich.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Kauf bitte eine Packung Salz für mich.",
+        "avg_logprob": -0.33407704283793765,
+        "no_speech_prob": 0.017783019691705704
+      }
+    ]
+  },
+  "55738": {
+    "text": "Das Essen ist aber salzig. Wie viel Salz hast du denn reingetan?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.8,
+        "text": "Das Essen ist aber salzig. Wie viel Salz hast du denn reingetan?",
+        "avg_logprob": -0.2348745720727103,
+        "no_speech_prob": 0.004061636049300432
+      }
+    ]
+  },
+  "55739": {
+    "text": "Ich sammle keine Briefmarken mehr.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Ich sammle keine Briefmarken mehr.",
+        "avg_logprob": -0.3532397196843074,
+        "no_speech_prob": 0.0035138018429279327
+      }
+    ]
+  },
+  "55740": {
+    "text": "Sie ist eine sehr professionelle Sängerin.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Sie ist eine sehr professionelle Sängerin.",
+        "avg_logprob": -0.26035281328054577,
+        "no_speech_prob": 0.005942787043750286
+      }
+    ]
+  },
+  "55741": {
+    "text": "Ist die Grammatik in diesem Satz richtig?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Ist die Grammatik in diesem Satz richtig?",
+        "avg_logprob": -0.21788142727954046,
+        "no_speech_prob": 0.008098953403532505
+      }
+    ]
+  },
+  "55742": {
+    "text": "Bitte die Unterrichtsräume sauber halten.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Bitte die Unterrichtsräume sauber halten.",
+        "avg_logprob": -0.22029935142823628,
+        "no_speech_prob": 0.00540558947250247
+      }
+    ]
+  },
+  "55743": {
+    "text": "Das Badezimmer ist schmutzig. Bitte mach es bald sauber.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 6.4,
+        "text": "Das Badezimmer ist schmutzig. Bitte mach es bald sauber.",
+        "avg_logprob": -0.22977661518823533,
+        "no_speech_prob": 0.0050704702734947205
+      }
+    ]
+  },
+  "55744": {
+    "text": "Auf der Weide sind 15 Schafe.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Auf der Weide sind 15 Schafe.",
+        "avg_logprob": -0.2396849493185679,
+        "no_speech_prob": 0.024336131289601326
+      }
+    ]
+  },
+  "55745": {
+    "text": "Weil mir so kalt war, habe ich einen Schal umgemacht.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Weil mir so kalt war, habe ich einen Schal umgemacht.",
+        "avg_logprob": -0.21348955129322253,
+        "no_speech_prob": 0.006447331048548222
+      }
+    ]
+  },
+  "55746": {
+    "text": "Dieses Gericht ist ein wenig scharf.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Dieses Gericht ist ein wenig scharf.",
+        "avg_logprob": -0.3085262378056844,
+        "no_speech_prob": 0.008740472607314587
+      }
+    ]
+  },
+  "55747": {
+    "text": "Welchen Schauspieler magst du?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Welchen Schauspieler magst du?",
+        "avg_logprob": -0.22009427272356474,
+        "no_speech_prob": 0.0332578644156456
+      }
+    ]
+  },
+  "55748": {
+    "text": "Er ging am Nachmittag zur Post und schickte drei Briefe ab.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 5.0,
+        "text": "Er ging am Nachmittag zur Post und schickte drei Briefe ab.",
+        "avg_logprob": -0.1532355092820667,
+        "no_speech_prob": 0.0032938688527792692
+      }
+    ]
+  },
+  "55749": {
+    "text": "Kannst du den Wagen für mich schieben?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Kannst du den Wagen für mich schieben?",
+        "avg_logprob": -0.22810553014278412,
+        "no_speech_prob": 0.014973160810768604
+      }
+    ]
+  },
+  "55750": {
+    "text": "Von wo aus kann ich ein Schiff nehmen?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Von wo aus kann ich ein Schiff nehmen?",
+        "avg_logprob": -0.3027101755142212,
+        "no_speech_prob": 0.025519676506519318
+      }
+    ]
+  },
+  "55751": {
+    "text": "Der Lehrer hat mit ihr geschimpft.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Der Lehrer hat mit ihr geschimpft.",
+        "avg_logprob": -0.3071618278821309,
+        "no_speech_prob": 0.013696631416678429
+      }
+    ]
+  },
+  "55752": {
+    "text": "In dem Sandwich ist Schinken.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "In dem Sandwich ist Schinken.",
+        "avg_logprob": -0.4044272682883523,
+        "no_speech_prob": 0.02641771361231804
+      }
+    ]
+  },
+  "55753": {
+    "text": "Mutter sagt meiner Schwester, dass sie schlafen soll.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Mutter sagt meiner Schwester, dass sie schlafen soll.",
+        "avg_logprob": -0.2315864246338606,
+        "no_speech_prob": 0.0014679834712296724
+      }
+    ]
+  },
+  "55754": {
+    "text": "Die Toilette ist neben dem Schlafzimmer.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Die Toilette ist neben dem Schlafzimmer.",
+        "avg_logprob": -0.17832228342692058,
+        "no_speech_prob": 0.0010826499201357365
+      }
+    ]
+  },
+  "55755": {
+    "text": "Achtung, eine Schlange!",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Achtung, eine Schlange!",
+        "avg_logprob": -0.470524863763289,
+        "no_speech_prob": 0.03730333596467972
+      }
+    ]
+  },
+  "55756": {
+    "text": "Tom ist ein schlechter Schüler.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Tom ist ein schlechter Schüler.",
+        "avg_logprob": -0.34378122389316557,
+        "no_speech_prob": 0.0036849663592875004
+      }
+    ]
+  },
+  "55757": {
+    "text": "Bitte schließt die Tür.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Bitte schließt die Tür.",
+        "avg_logprob": -0.22907186150550843,
+        "no_speech_prob": 0.002754563232883811
+      }
+    ]
+  },
+  "55758": {
+    "text": "Wegen der Erkältung habe ich Halsschmerzen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 5.0,
+        "text": "Wegen der Erkältung habe ich Halsschmerzen.",
+        "avg_logprob": -0.1892656766706043,
+        "no_speech_prob": 0.0076035913079977036
+      }
+    ]
+  },
+  "55759": {
+    "text": "Diese Hose ist schmutzig.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Diese Hose ist schmutzig.",
+        "avg_logprob": -0.30073917905489606,
+        "no_speech_prob": 0.0050056735053658485
+      }
+    ]
+  },
+  "55760": {
+    "text": "Ich habe meine langen Haare abschneiden lassen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Ich habe meine langen Haare abschneiden lassen.",
+        "avg_logprob": -0.2546956669539213,
+        "no_speech_prob": 0.009065917693078518
+      }
+    ]
+  },
+  "55761": {
+    "text": "Schneit es hier im Winter?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Schneid es hier im Winter?",
+        "avg_logprob": -0.2374698579311371,
+        "no_speech_prob": 0.00636771135032177
+      }
+    ],
+    "batch_680_review_pass": {
+      "text": "Schneit es hier im Winter?",
+      "avg_logprob": [
+        -0.35603674650192263
+      ]
+    },
+    "original_text": "Schneid es hier im Winter?"
+  },
+  "55762": {
+    "text": "Die Zeit vergeht schnell.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Die Zeit vergeht schnell.",
+        "avg_logprob": -0.28668446011013454,
+        "no_speech_prob": 0.030211644247174263
+      }
+    ]
+  },
+  "55763": {
+    "text": "Ich habe schon einen Universitätsabschluss.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 5.0,
+        "text": "Ich habe schon einen Universitätsabschluss.",
+        "avg_logprob": -0.2387613336245219,
+        "no_speech_prob": 0.0072429184801876545
+      }
+    ]
+  },
+  "55764": {
+    "text": "Im Herbst ist die Landschaft sehr schön.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Im Herbst ist die Landschaft sehr schön.",
+        "avg_logprob": -0.21835877345158503,
+        "no_speech_prob": 0.0005516767269000411
+      }
+    ]
+  },
+  "55765": {
+    "text": "Ich schreibe gerade einen Brief an meinen Freund.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 6.0,
+        "text": "Ich schreibe gerade einen Brief an meinen Freund.",
+        "avg_logprob": -0.25163870411259787,
+        "no_speech_prob": 0.09063699096441269
+      }
+    ]
+  },
+  "55766": {
+    "text": "Der Schreibtisch ist sehr unordentlich.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Der Schreibtisch ist sehr unordentlich.",
+        "avg_logprob": -0.22711896437865037,
+        "no_speech_prob": 0.026949459686875343
+      }
+    ]
+  },
+  "55767": {
+    "text": "Ich bewundere diesen Schriftsteller sehr.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Ich bewundere diesen Schriftsteller sehr.",
+        "avg_logprob": -0.2175343313387462,
+        "no_speech_prob": 0.019159546121954918
+      }
+    ]
+  },
+  "55768": {
+    "text": "Wieso geht die Schublade nicht auf?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Wieso geht die Schublade nicht auf?",
+        "avg_logprob": -0.3238155566729032,
+        "no_speech_prob": 0.06392986327409744
+      }
+    ]
+  },
+  "55769": {
+    "text": "Sie ist ein sehr schüchternes Mädchen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Sie ist ein sehr schüchternes Mädchen.",
+        "avg_logprob": -0.27175413370132445,
+        "no_speech_prob": 0.003203329164534807
+      }
+    ]
+  },
+  "55770": {
+    "text": "Ich habe sieben Paar Schuhe.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Ich habe sieben Paar Schuhe.",
+        "avg_logprob": -0.27643866722400373,
+        "no_speech_prob": 0.015746034681797028
+      }
+    ]
+  },
+  "55771": {
+    "text": "Bei welcher Schule willst du dich bewerben?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Bei welcher Schule willst du dich bewerben?",
+        "avg_logprob": -0.21561533425535476,
+        "no_speech_prob": 0.003254433162510395
+      }
+    ]
+  },
+  "55772": {
+    "text": "Meine Schwester ist Grundschülerin.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Meine Schwester ist Grundschülerin.",
+        "avg_logprob": -0.2953808705012004,
+        "no_speech_prob": 0.015986304730176926
+      }
+    ]
+  },
+  "55773": {
+    "text": "Anna weint sich an meiner Schulter aus.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.5,
+        "text": "Anna weint sich an meiner Schulter aus.",
+        "avg_logprob": -0.2756225879375751,
+        "no_speech_prob": 0.014587895944714546
+      }
+    ]
+  },
+  "55774": {
+    "text": "Ich habe aus Versehen die Schüssel zerbrochen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Ich habe aus Versehen die Schüssel zerbrochen.",
+        "avg_logprob": -0.1938141961892446,
+        "no_speech_prob": 0.0037079136818647385
+      }
+    ]
+  },
+  "55775": {
+    "text": "Nach einer Krankheit ist der Körper sehr schwach.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 5.0,
+        "text": "Nach einer Krankheit ist der Körper sehr schwach.",
+        "avg_logprob": -0.216039348925863,
+        "no_speech_prob": 0.0015423411969095469
+      }
+    ]
+  },
+  "55776": {
+    "text": "Ich habe eine schwarze Tasche.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.2,
+        "text": "Ich habe eine schwarze Tasche.",
+        "avg_logprob": -0.26523854086796445,
+        "no_speech_prob": 0.004799790680408478
+      }
+    ]
+  },
+  "55777": {
+    "text": "Ich finde Schweine niedlich.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Ich finde Schweine niedlich.",
+        "avg_logprob": -0.2584151208400726,
+        "no_speech_prob": 0.03317584842443466
+      }
+    ]
+  },
+  "55778": {
+    "text": "Ich mag kein Schweinefleisch.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.5,
+        "text": "Ich mag kein Schweinefleisch.",
+        "avg_logprob": -0.3567388111894781,
+        "no_speech_prob": 0.017306897789239883
+      }
+    ]
+  },
+  "55779": {
+    "text": "Dieses Buch ist schwer.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Dieses Buch ist schwer.",
+        "avg_logprob": -0.3107125051319599,
+        "no_speech_prob": 0.0035292927641421556
+      }
+    ]
+  },
+  "55780": {
+    "text": "Was ist der Schwerpunkt in deinem Studium?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Was ist der Schwerpunkt in deinem Studium?",
+        "avg_logprob": -0.1844314992427826,
+        "no_speech_prob": 0.0061816745437681675
+      }
+    ]
+  },
+  "55781": {
+    "text": "Ich habe sechs Schwestern.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Ich habe sechs Schwestern.",
+        "avg_logprob": -0.33050847351551055,
+        "no_speech_prob": 0.0032856110483407974
+      }
+    ]
+  },
+  "55782": {
+    "text": "Geld verdienen ist schwierig.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Geld verdienen ist schwierig.",
+        "avg_logprob": -0.37579430474175346,
+        "no_speech_prob": 0.016892746090888977
+      }
+    ]
+  },
+  "55783": {
+    "text": "Ich kann nicht schwimmen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Ich kann nicht schwimmen.",
+        "avg_logprob": -0.3320947488149007,
+        "no_speech_prob": 0.03557426854968071
+      }
+    ]
+  },
+  "55784": {
+    "text": "Sieh mal da!",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Sieh mal da!",
+        "avg_logprob": -0.42909466847777367,
+        "no_speech_prob": 0.037907786667346954
+      }
+    ]
+  },
+  "55785": {
+    "text": "In letzter Zeit bin ich sehr beschäftigt.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.5,
+        "text": "In letzter Zeit bin ich sehr beschäftigt.",
+        "avg_logprob": -0.2699671983718872,
+        "no_speech_prob": 0.0026178760454058647
+      }
+    ]
+  },
+  "55786": {
+    "text": "Bitte binde das mit einem Seil fest.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Bitte binde das mit einem Seil fest.",
+        "avg_logprob": -0.25552780811603254,
+        "no_speech_prob": 0.04139866307377815
+      }
+    ]
+  },
+  "55787": {
+    "text": "Wir müssen mit der Seilbahn auf den Gipfel fahren.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Wir müssen mit der Seilbahn auf den Gipfel fahren.",
+        "avg_logprob": -0.19066915792577407,
+        "no_speech_prob": 0.006191849708557129
+      }
+    ]
+  },
+  "55788": {
+    "text": "Ich habe gehört, dass sein Vater gestorben ist.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.5,
+        "text": "Ich habe gehört, dass sein Vater gestorben ist.",
+        "avg_logprob": -0.24600941340128582,
+        "no_speech_prob": 0.005784398876130581
+      }
+    ]
+  },
+  "55789": {
+    "text": "Sein oder nicht sein ist ein berühmtes Zitat von Shakespeare.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 5.0,
+        "text": "Sein oder nicht sein ist ein berühmtes Zitat von Shakespeare.",
+        "avg_logprob": -0.30145349941755595,
+        "no_speech_prob": 0.015028399415314198
+      }
+    ]
+  },
+  "55790": {
+    "text": "Er lernt Klavier, seit er fünf Jahre alt ist.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Er lernt Klavier, seit er fünf Jahre alt ist.",
+        "avg_logprob": -0.24586496874690056,
+        "no_speech_prob": 0.017919067293405533
+      }
+    ]
+  },
+  "55791": {
+    "text": "Seitdem du gegangen bist, haben wir nichts mehr von dir gehört.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 6.0,
+        "text": "Seitdem du gegangen bist, haben wir nichts mehr von dir gehört.",
+        "avg_logprob": -0.24579942927641027,
+        "no_speech_prob": 0.019243519753217697
+      }
+    ]
+  },
+  "55792": {
+    "text": "Komm auf die Seite, sonst wirst du noch von einem Auto angefahren.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 5.0,
+        "text": "Komm auf die Seite, sonst wirst du noch von einem Auto angefahren.",
+        "avg_logprob": -0.2168885312582317,
+        "no_speech_prob": 0.005288391839712858
+      }
+    ]
+  },
+  "55793": {
+    "text": "Bitte schlagt Seite 102 auf.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Bitte schlagt Seite 102 auf.",
+        "avg_logprob": -0.44228873469612817,
+        "no_speech_prob": 0.052037402987480164
+      }
+    ]
+  },
+  "55794": {
+    "text": "Ich kann nicht eine Sekunde länger warten.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Ich kann nicht eine Sekunde länger warten.",
+        "avg_logprob": -0.27276090780893963,
+        "no_speech_prob": 0.0073340279050171375
+      }
+    ]
+  },
+  "55795": {
+    "text": "Du kannst nicht selber einfach irgendetwas entscheiden.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.6,
+        "text": "Du kannst nicht selber einfach irgendetwas entscheiden.",
+        "avg_logprob": -0.31885916453141433,
+        "no_speech_prob": 0.018567010760307312
+      }
+    ]
+  },
+  "55796": {
+    "text": "Dieses Semester ist schnell vergangen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 5.0,
+        "text": "Dieses Semester ist schnell vergangen.",
+        "avg_logprob": -0.3689879449931058,
+        "no_speech_prob": 0.014928254298865795
+      }
+    ]
+  },
+  "55797": {
+    "text": "Dies ist die Lieblingssendung meines Vaters.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.5,
+        "text": "Dies ist die Lieblingssendung meines Vaters.",
+        "avg_logprob": -0.24277328042423024,
+        "no_speech_prob": 0.010562990792095661
+      }
+    ]
+  },
+  "55798": {
+    "text": "Rate mal, wer im September Geburtstag hat.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Rate mal, wer im September Geburtstag hat.",
+        "avg_logprob": -0.36929253595215933,
+        "no_speech_prob": 0.016996417194604874
+      }
+    ]
+  },
+  "55799": {
+    "text": "Mach dir keine Sorgen. Es ist sehr sicher hier.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.6,
+        "text": "Mach dir keine Sorgen. Es ist sehr sicher hier.",
+        "avg_logprob": -0.4019589106241862,
+        "no_speech_prob": 0.00600389065220952
+      }
+    ]
+  },
+  "55800": {
+    "text": "Sie haben sich gestritten.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Sie haben sich gestritten.",
+        "avg_logprob": -0.24856122136116027,
+        "no_speech_prob": 0.04550075903534889
+      }
+    ]
+  },
+  "55801": {
+    "text": "Wie viel möchten Sie ausgeben?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Wie viel möchten Sie ausgeben?",
+        "avg_logprob": -0.3654199719429016,
+        "no_speech_prob": 0.006505721714347601
+      }
+    ]
+  },
+  "55802": {
+    "text": "Wer singt denn da?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Wer sinkt denn da?",
+        "avg_logprob": -0.30705690383911133,
+        "no_speech_prob": 0.02241877280175686
+      }
+    ],
+    "batch_680_review_pass": {
+      "text": "Wer singt denn da?",
+      "avg_logprob": [
+        -0.4444677035013835
+      ]
+    },
+    "original_text": "Wer sinkt denn da?"
+  },
+  "55803": {
+    "text": "Der Umsatz der Firma sinkt stetig.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Der Umsatz der Firma sinkt stetig.",
+        "avg_logprob": -0.18735541509730474,
+        "no_speech_prob": 0.02878120355308056
+      }
+    ]
+  },
+  "55804": {
+    "text": "Wie wäre es, wenn wir diesen Winter Skifahren?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Wie wäre es, wenn wir diesen Winter Skifahren?",
+        "avg_logprob": -0.2798925320307414,
+        "no_speech_prob": 0.0042556095868349075
+      }
+    ]
+  },
+  "55805": {
+    "text": "Ist nicht so viel Snacks zwischendurch.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Ist nicht so viel Snacks zwischendurch.",
+        "avg_logprob": -0.4455997624567577,
+        "no_speech_prob": 0.00979109387844801
+      }
+    ],
+    "batch_939_review_pass": {
+      "text": "Ist nicht so viel Snacks zwischendurch.",
+      "avg_logprob": [
+        -0.3193199911287853
+      ]
+    },
+    "needs_manual_review": true
+  },
+  "55806": {
+    "text": "Mein Sofa ist sehr bequem.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.32,
+        "text": "Mein Sofa ist sehr bequem.",
+        "avg_logprob": -0.27879423648118973,
+        "no_speech_prob": 0.003490446601063013
+      }
+    ]
+  },
+  "55807": {
+    "text": "Das Konzert fängt sofort an.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Das Konzert fängt sofort an.",
+        "avg_logprob": -0.30276549607515335,
+        "no_speech_prob": 0.0029345331713557243
+      }
+    ]
+  },
+  "55808": {
+    "text": "Mein ältester Sohn ist Arzt.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Mein ältester Sohn ist Arzt.",
+        "avg_logprob": -0.23412113923292893,
+        "no_speech_prob": 0.013883388601243496
+      }
+    ]
+  },
+  "55809": {
+    "text": "Mein Onkel ist Soldat.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Mein Onkel ist Soldat.",
+        "avg_logprob": -0.37425264716148376,
+        "no_speech_prob": 0.008944941684603691
+      }
+    ]
+  },
+  "55810": {
+    "text": "Im Sommer ist es heiß.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Im Sommer ist es heiß.",
+        "avg_logprob": -0.20535193549262154,
+        "no_speech_prob": 0.035602763295173645
+      }
+    ]
+  },
+  "55811": {
+    "text": "Lass uns am Sonnabend ins Kino gehen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Lass uns am Sonnabend ins Kino gehen.",
+        "avg_logprob": -0.28191374614834785,
+        "no_speech_prob": 0.00848277285695076
+      }
+    ]
+  },
+  "55812": {
+    "text": "Sollen wir uns am Strand in die Sonne legen?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 5.0,
+        "text": "Sollen wir uns am Strand in die Sonne legen?",
+        "avg_logprob": -0.23285899559656778,
+        "no_speech_prob": 0.010812362655997276
+      }
+    ]
+  },
+  "55813": {
+    "text": "Sonntag ist ein wichtiger Tag.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Sonntag ist ein wichtiger Tag.",
+        "avg_logprob": -0.3312198411334645,
+        "no_speech_prob": 0.005652544088661671
+      }
+    ]
+  },
+  "55814": {
+    "text": "Sei nicht so faul, sonst musst du bis zum Abend arbeiten.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.32,
+        "text": "Sei nicht so faul, sonst musst du bis zum Abend arbeiten.",
+        "avg_logprob": -0.23086881637573242,
+        "no_speech_prob": 0.009387647733092308
+      }
+    ]
+  },
+  "55815": {
+    "text": "Ich kaufe später noch eins für dich.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Ich kaufe später noch eins für dich.",
+        "avg_logprob": -0.31727215896050137,
+        "no_speech_prob": 0.025944003835320473
+      }
+    ]
+  },
+  "55816": {
+    "text": "Lass uns im Wald spazieren gehen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Lass uns im Wald spazieren gehen.",
+        "avg_logprob": -0.295470824608436,
+        "no_speech_prob": 0.009631887078285217
+      }
+    ]
+  },
+  "55817": {
+    "text": "Bitte bringen Sie mir die Speisekarte.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.32,
+        "text": "Bitte bringen Sie mir die Speisekarte.",
+        "avg_logprob": -0.2914024224648109,
+        "no_speech_prob": 0.02006729505956173
+      }
+    ]
+  },
+  "55818": {
+    "text": "Hast du spezielle Fragen?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Hast du spezielle Fragen?",
+        "avg_logprob": -0.38043830129835343,
+        "no_speech_prob": 0.03263837471604347
+      }
+    ]
+  },
+  "55819": {
+    "text": "Dieser Spiegel ist aus Glas gemacht.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Dieser Spiegel ist aus Glas gemacht.",
+        "avg_logprob": -0.19775021572907767,
+        "no_speech_prob": 0.0016985884867608547
+      }
+    ]
+  },
+  "55820": {
+    "text": "Spiele im Internet sind gerade sehr beliebt.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.6,
+        "text": "Spiele im Internet sind gerade sehr beliebt.",
+        "avg_logprob": -0.2611749447309054,
+        "no_speech_prob": 0.02720847725868225
+      }
+    ]
+  },
+  "55821": {
+    "text": "Meine Schwester spielt gerade Klavier.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Meine Schwester spielt gerade Klavier.",
+        "avg_logprob": -0.2735626155679876,
+        "no_speech_prob": 0.0019175115739926696
+      }
+    ]
+  },
+  "55822": {
+    "text": "Er ist Fußballspieler.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Er ist Fußballspieler.",
+        "avg_logprob": -0.23399580717086793,
+        "no_speech_prob": 0.024680176749825478
+      }
+    ]
+  },
+  "55823": {
+    "text": "Kleine Kinder freuen sich am meisten über Spielzeug.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.32,
+        "text": "Kleine Kinder freuen sich am meisten über Spielzeug.",
+        "avg_logprob": -0.2701178512402943,
+        "no_speech_prob": 0.0010703746229410172
+      }
+    ]
+  },
+  "55824": {
+    "text": "Ich habe zu Hause eine Spinne gefangen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Ich habe zu Hause eine Spinne gefangen.",
+        "avg_logprob": -0.24788043132195106,
+        "no_speech_prob": 0.002225812990218401
+      }
+    ]
+  },
+  "55825": {
+    "text": "Morgen hat unsere Schule ein Sportfest.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 5.5,
+        "text": "Morgen hat unsere Schule ein Sportfest.",
+        "avg_logprob": -0.4056249965320934,
+        "no_speech_prob": 0.004955349024385214
+      }
+    ]
+  },
+  "55827": {
+    "text": "Die Kinder haben keinen Sportplatz zum Baseball spielen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.32,
+        "text": "Die Kinder haben keinen Sportplatz zum Baseball spielen.",
+        "avg_logprob": -0.2910378362451281,
+        "no_speech_prob": 0.006405122112482786
+      }
+    ]
+  },
+  "55828": {
+    "text": "Welche Sprachen kannst du?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Welche Sprachen kannst du?",
+        "avg_logprob": -0.33601861596107485,
+        "no_speech_prob": 0.011093223467469215
+      }
+    ]
+  },
+  "55829": {
+    "text": "Kannst du etwas lauter sprechen?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Kannst du etwas lauter sprechen?",
+        "avg_logprob": -0.3450074250047857,
+        "no_speech_prob": 0.006495906040072441
+      }
+    ]
+  },
+  "55830": {
+    "text": "Du kannst nicht einfach hierhin spucken.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Du kannst nicht einfach hierhin spucken.",
+        "avg_logprob": -0.39390913893779117,
+        "no_speech_prob": 0.016751613467931747
+      }
+    ]
+  },
+  "55831": {
+    "text": "Jeder Staat hat eine Nationalhymne.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Jeder Staat hat eine Nationalhymne.",
+        "avg_logprob": -0.27865081280469894,
+        "no_speech_prob": 0.0038184686563909054
+      }
+    ]
+  },
+  "55832": {
+    "text": "Ich gehe auf eine staatliche Schule.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Ich gehe auf eine staatliche Schule.",
+        "avg_logprob": -0.28179244561628863,
+        "no_speech_prob": 0.013166851364076138
+      }
+    ]
+  },
+  "55833": {
+    "text": "Ich bin es nicht gewohnt, in der Stadt zu leben.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.2800000000000002,
+        "text": "Ich bin es nicht gewohnt, in der Stadt zu leben.",
+        "avg_logprob": -0.2579580475302303,
+        "no_speech_prob": 0.0074959793128073215
+      }
+    ]
+  },
+  "55834": {
+    "text": "Ich bin statt unseres Chefs zur Versammlung gegangen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.6,
+        "text": "Ich bin statt unseres Chefs zur Versammlung gegangen.",
+        "avg_logprob": -0.23419884033501148,
+        "no_speech_prob": 0.0016548996791243553
+      }
+    ]
+  },
+  "55835": {
+    "text": "Dieses Steak ist zu groß für mich.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Dieses Steak ist zu groß für mich.",
+        "avg_logprob": -0.32929272949695587,
+        "no_speech_prob": 0.006666307803243399
+      }
+    ]
+  },
+  "55836": {
+    "text": "Bitte steh auf.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 1.32,
+        "text": "Bitte steh auf.",
+        "avg_logprob": -0.5710248872637749,
+        "no_speech_prob": 0.09410278499126434
+      }
+    ]
+  },
+  "55837": {
+    "text": "An dieser Stelle ist der Unfall passiert.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.2800000000000002,
+        "text": "An dieser Stelle ist der Unfall passiert.",
+        "avg_logprob": -0.33126552899678546,
+        "no_speech_prob": 0.005096570588648319
+      }
+    ]
+  },
+  "55838": {
+    "text": "Heute sind viele Sterne am Himmel.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Heute sind viele Sterne am Himmel.",
+        "avg_logprob": -0.27628536025683087,
+        "no_speech_prob": 0.01394831482321024
+      }
+    ]
+  },
+  "55839": {
+    "text": "Mama, hast du neue Stiefel gekauft?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.2800000000000002,
+        "text": "Mama, hast du neue Stiefel gekauft?",
+        "avg_logprob": -0.3118092971188681,
+        "no_speech_prob": 0.01009821705520153
+      }
+    ]
+  },
+  "55840": {
+    "text": "Bitte benutzen Sie einen blauen oder schwarzen Stift.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.7600000000000002,
+        "text": "Bitte benutzen Sie einen blauen oder schwarzen Stift.",
+        "avg_logprob": -0.19563829197603114,
+        "no_speech_prob": 0.0008036806830205023
+      }
+    ]
+  },
+  "55841": {
+    "text": "Im Büro ist es sehr still.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Im Büro ist es sehr still.",
+        "avg_logprob": -0.32282569191672583,
+        "no_speech_prob": 0.004554701969027519
+      }
+    ]
+  },
+  "55842": {
+    "text": "Der DJ hat eine gute Stimme.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Der DJ hat eine gute Stimme.",
+        "avg_logprob": -0.25967652147466486,
+        "no_speech_prob": 0.007467948831617832
+      }
+    ]
+  },
+  "55843": {
+    "text": "Ich habe eine Narbe auf der Stirn.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Ich habe eine Narbe auf der Stirn.",
+        "avg_logprob": -0.22819094016001776,
+        "no_speech_prob": 0.00869037862867117
+      }
+    ]
+  },
+  "55844": {
+    "text": "Sie ist ein sehr stolzes Mädchen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Sie ist ein sehr stolzes Mädchen.",
+        "avg_logprob": -0.29580969363451004,
+        "no_speech_prob": 0.003937833942472935
+      }
+    ]
+  },
+  "55845": {
+    "text": "Entschuldigung, wo geht es hier zum Strand?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Entschuldigung, wo geht es hier zum Strand?",
+        "avg_logprob": -0.31033495664596555,
+        "no_speech_prob": 0.010347559116780758
+      }
+    ]
+  },
+  "55846": {
+    "text": "Auf der Straße ist kein bisschen Müll.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.5,
+        "text": "Auf der Straße ist kein bisschen Müll.",
+        "avg_logprob": -0.32218306759993237,
+        "no_speech_prob": 0.0006834138766862452
+      }
+    ]
+  },
+  "55847": {
+    "text": "Ein Strauß kann schnell rennen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Ein Strauß kann schnell rennen.",
+        "avg_logprob": -0.39044155315919354,
+        "no_speech_prob": 0.004443933721631765
+      }
+    ]
+  },
+  "55848": {
+    "text": "Sie haben sich wegen einer Kleinigkeit gestritten.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Sie haben sich wegen einer Kleinigkeit gestritten.",
+        "avg_logprob": -0.1983343011566571,
+        "no_speech_prob": 0.0173179991543293
+      }
+    ]
+  },
+  "55849": {
+    "text": "Unser Chef ist sehr streng.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Unser Chef ist sehr streng.",
+        "avg_logprob": -0.28883175416426227,
+        "no_speech_prob": 0.0007408610545098782
+      }
+    ]
+  },
+  "55850": {
+    "text": "Er hat Apfelstrudel gekauft.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Er hat Apfelstrudel gekauft.",
+        "avg_logprob": -0.2339854332116934,
+        "no_speech_prob": 0.04687397554516792
+      }
+    ]
+  },
+  "55851": {
+    "text": "Da ist ein Loch im Strumpf.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Da ist ein Loch im Strumpf.",
+        "avg_logprob": -0.24830326437950134,
+        "no_speech_prob": 0.006578492466360331
+      }
+    ]
+  },
+  "55852": {
+    "text": "Ich habe heute ein Stück Kuchen gegessen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Ich habe heute ein Stück Kuchen gegessen.",
+        "avg_logprob": -0.23694158517397368,
+        "no_speech_prob": 0.01068802922964096
+      }
+    ]
+  },
+  "55853": {
+    "text": "Meine Schwester ist Studentin.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.5,
+        "text": "Meine Schwester ist Studentin.",
+        "avg_logprob": -0.3964724957942963,
+        "no_speech_prob": 0.0012475266121327877
+      }
+    ]
+  },
+  "55854": {
+    "text": "Dieser Stuhl ist nicht stabil.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Dieser Stuhl ist nicht stabil.",
+        "avg_logprob": -0.17871733416210522,
+        "no_speech_prob": 0.0024739746004343033
+      }
+    ]
+  },
+  "55855": {
+    "text": "Wie viele Stunden fliegt man nach Hamburg?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Wie viele Stunden fliegt man nach Hamburg?",
+        "avg_logprob": -0.22647660970687866,
+        "no_speech_prob": 0.0346781350672245
+      }
+    ]
+  },
+  "55856": {
+    "text": "Was suchst du?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Was suchst du?",
+        "avg_logprob": -0.24792201071977615,
+        "no_speech_prob": 0.020393528044223785
+      }
+    ]
+  },
+  "55857": {
+    "text": "Der Pfeil zeigt nach Süden.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Der Pfeil zeigt nach Süden.",
+        "avg_logprob": -0.27175191541512805,
+        "no_speech_prob": 0.022935865446925163
+      }
+    ]
+  },
+  "55858": {
+    "text": "Italien ist südlich von Deutschland.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 5.28,
+        "text": "Italien ist südlich von Deutschland.",
+        "avg_logprob": -0.32116104414065677,
+        "no_speech_prob": 0.022341402247548103
+      }
+    ]
+  },
+  "55859": {
+    "text": "Wie hoch ist die Summe insgesamt?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Wie hoch ist die Summe insgesamt?",
+        "avg_logprob": -0.2471614425832575,
+        "no_speech_prob": 0.02154790237545967
+      }
+    ]
+  },
+  "55860": {
+    "text": "Wo gibt es hier einen Supermarkt?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.72,
+        "text": "Wo gibt es hier einen Supermarkt?",
+        "avg_logprob": -0.3671055219390176,
+        "no_speech_prob": 0.013417583890259266
+      }
+    ]
+  },
+  "55861": {
+    "text": "Ich habe Suppe für dich gekocht.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Ich habe Suppe für dich gekocht.",
+        "avg_logprob": -0.24031602419339693,
+        "no_speech_prob": 0.011231820099055767
+      }
+    ]
+  },
+  "55862": {
+    "text": "Welche Wassermelone ist süßer?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.6,
+        "text": "Welche Wassermelone ist süßer?",
+        "avg_logprob": -0.31678632589486927,
+        "no_speech_prob": 0.005445095244795084
+      }
+    ]
+  },
+  "55863": {
+    "text": "Der Lehrer schreibt etwas an die Tafel.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 5.0,
+        "text": "Der Lehrer schreibt etwas an die Tafel.",
+        "avg_logprob": -0.21798862091132573,
+        "no_speech_prob": 0.008452783338725567
+      }
+    ]
+  },
+  "55864": {
+    "text": "Wie viele Tage brauchst du dafür?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Wie viele Tage brauchst du dafür?",
+        "avg_logprob": -0.27840294621207495,
+        "no_speech_prob": 0.07153970748186111
+      }
+    ]
+  },
+  "55865": {
+    "text": "In der Kiste liegt ein vergilbtes Tagebuch.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "In der Kiste liegt ein vergibtes Tagebuch.",
+        "avg_logprob": -0.22865999539693196,
+        "no_speech_prob": 0.005627792794257402
+      }
+    ],
+    "batch_939_review_pass": {
+      "text": "In der Kiste liegt ein vergilbtes Tagebuch.",
+      "avg_logprob": [
+        -0.1928565837442875
+      ]
+    },
+    "original_text": "In der Kiste liegt ein vergibtes Tagebuch."
+  },
+  "55866": {
+    "text": "Meine Schwester geht täglich im Park joggen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 5.28,
+        "text": "Meine Schwester geht täglich im Park joggen.",
+        "avg_logprob": -0.27197145564215525,
+        "no_speech_prob": 0.0117685217410326
+      }
+    ]
+  },
+  "55867": {
+    "text": "Ich schlafe tagsüber und arbeite in der Nacht.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.72,
+        "text": "Ich schlafe tagsüber und arbeite in der Nacht.",
+        "avg_logprob": -0.22955297492444515,
+        "no_speech_prob": 0.0015277530765160918
+      }
+    ]
+  },
+  "55868": {
+    "text": "Ein Taifun verursacht ernsthafte Schäden.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.44,
+        "text": "Ein Typhoon verursacht ernsthafte Schäden.",
+        "avg_logprob": -0.35306694928337545,
+        "no_speech_prob": 0.006242080125957727
+      }
+    ],
+    "batch_939_review_pass": {
+      "text": "Ein Taifun verursacht ernsthafte Schäden.",
+      "avg_logprob": [
+        -0.20641200682696173
+      ]
+    },
+    "original_text": "Ein Typhoon verursacht ernsthafte Schäden."
+  },
+  "55869": {
+    "text": "Meine Tante ist Direktorin einer Firma.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Meine Tante ist Direktorin einer Firma.",
+        "avg_logprob": -0.24526661175947922,
+        "no_speech_prob": 0.0006598584004677832
+      }
+    ]
+  },
+  "55870": {
+    "text": "Tanzen ist ein guter Sport.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Tanzen ist ein guter Sport.",
+        "avg_logprob": -0.32864971594376996,
+        "no_speech_prob": 0.0053281160071492195
+      }
+    ]
+  },
+  "55871": {
+    "text": "Die rote Tasche ist meine.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Die rote Tasche ist meine.",
+        "avg_logprob": -0.2896984327923168,
+        "no_speech_prob": 0.021468259394168854
+      }
+    ]
+  },
+  "55872": {
+    "text": "Ich möchte eine Tasse schwarzen Tee.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Ich möchte eine Tasse schwarzen Tee.",
+        "avg_logprob": -0.25554491366658894,
+        "no_speech_prob": 0.004770792555063963
+      }
+    ]
+  },
+  "55873": {
+    "text": "Mit dem Taxi zu fahren ist teurer.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Mit dem Taxi zu fahren ist teurer.",
+        "avg_logprob": -0.21726333178006685,
+        "no_speech_prob": 0.005460276734083891
+      }
+    ]
+  },
+  "55874": {
+    "text": "Bitte teile dies in drei Teile auf.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Bitte teile dies in drei Teile auf.",
+        "avg_logprob": -0.243026458300077,
+        "no_speech_prob": 0.08268719911575317
+      }
+    ]
+  },
+  "55875": {
+    "text": "Willst du dieses Stück Kuchen mit mir teilen?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Willst du dieses Stück Kuchen mit mir teilen?",
+        "avg_logprob": -0.25941598415374756,
+        "no_speech_prob": 0.0034874475095421076
+      }
+    ]
+  },
+  "55876": {
+    "text": "Dieses Mal werde ich bestimmt teilnehmen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 5.0,
+        "text": "Dieses Mal werde ich bestimmt teilnehmen.",
+        "avg_logprob": -0.30945344404740766,
+        "no_speech_prob": 0.007859581150114536
+      }
+    ]
+  },
+  "55877": {
+    "text": "Das Telefon ist immer besetzt.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.2,
+        "text": "Das Telefon ist immer besetzt.",
+        "avg_logprob": -0.27500493959947064,
+        "no_speech_prob": 0.01667039468884468
+      }
+    ]
+  },
+  "55878": {
+    "text": "Ich wollte gerade mit ihm telefonieren.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.6,
+        "text": "Ich wollte gerade mit ihm telefonieren.",
+        "avg_logprob": -0.2668964591893283,
+        "no_speech_prob": 0.012546995654702187
+      }
+    ]
+  },
+  "55879": {
+    "text": "Tennis ist ein Lieblingssport von mir.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.44,
+        "text": "Tennis ist ein Lieblingssport von mir.",
+        "avg_logprob": -0.27412490447362264,
+        "no_speech_prob": 0.01266015786677599
+      }
+    ]
+  },
+  "55880": {
+    "text": "Dieser Test war einfach.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Dieser Test war einfach.",
+        "avg_logprob": -0.23309020325541496,
+        "no_speech_prob": 0.0014436851488426328
+      }
+    ]
+  },
+  "55881": {
+    "text": "So ein teures Geschenk kann ich nicht annehmen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "So ein teures Geschenk kann ich nicht annehmen.",
+        "avg_logprob": -0.21130948327481747,
+        "no_speech_prob": 0.006677466444671154
+      }
+    ]
+  },
+  "55882": {
+    "text": "Im Zoo gibt es viele Tiere.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Im Zoo gibt es viele Tiere.",
+        "avg_logprob": -0.27028888463974,
+        "no_speech_prob": 0.015720894560217857
+      }
+    ]
+  },
+  "55883": {
+    "text": "Der Zirkus hat drei Tiger.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Der Zirkus hat drei Tiger.",
+        "avg_logprob": -0.3144849430431019,
+        "no_speech_prob": 0.017865803092718124
+      }
+    ]
+  },
+  "55884": {
+    "text": "Wie viel kostet dieser Tisch?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Wie viel kostet dieser Tisch?",
+        "avg_logprob": -0.17955806851387024,
+        "no_speech_prob": 0.0043318308889865875
+      }
+    ]
+  },
+  "55885": {
+    "text": "Das nächste Mal spielen wir im Sportunterricht Tischtennis.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.32,
+        "text": "Das nächste Mal spielen wir im Sportunterricht Tischtennis.",
+        "avg_logprob": -0.34331871481502757,
+        "no_speech_prob": 0.0037264437414705753
+      }
+    ]
+  },
+  "55886": {
+    "text": "Wie viele Töchter haben Sie?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Wie viele Töchter haben Sie?",
+        "avg_logprob": -0.2473480593074452,
+        "no_speech_prob": 0.004583324305713177
+      }
+    ]
+  },
+  "55887": {
+    "text": "Ich gehe kurz zur Toilette.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Ich gehe kurz zur Toilette.",
+        "avg_logprob": -0.30897660688920453,
+        "no_speech_prob": 0.016078347340226173
+      }
+    ]
+  },
+  "55888": {
+    "text": "Im Kühlschrank ist nur noch Tomatensaft.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Im Kühlschrank ist nur noch Tomatensaft.",
+        "avg_logprob": -0.1989793125540018,
+        "no_speech_prob": 0.0034994615707546473
+      }
+    ]
+  },
+  "55889": {
+    "text": "Wir treffen uns am Tor der Uni.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Wir treffen uns am Tor der Uni.",
+        "avg_logprob": -0.3007031028920954,
+        "no_speech_prob": 0.011066274717450142
+      }
+    ]
+  },
+  "55890": {
+    "text": "Wir haben dreimal in der Woche Training.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 5.0,
+        "text": "Wir haben dreimal in der Woche Training.",
+        "avg_logprob": -0.2811882371703784,
+        "no_speech_prob": 0.0030908663757145405
+      }
+    ]
+  },
+  "55891": {
+    "text": "Der Traum vieler Kinder ist es, den ganzen Tag auf dem Spielplatz zu spielen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 6.0,
+        "text": "Der Traum vieler Kinder ist es, den ganzen Tag auf dem Spielplatz zu spielen.",
+        "avg_logprob": -0.1629416901956905,
+        "no_speech_prob": 0.0029878586065024137
+      }
+    ]
+  },
+  "55892": {
+    "text": "Meine Schwester hat wieder schlecht geträumt.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.5,
+        "text": "Meine Schwester hat wieder schlecht geträumt.",
+        "avg_logprob": -0.28995759785175323,
+        "no_speech_prob": 0.007783337961882353
+      }
+    ]
+  },
+  "55893": {
+    "text": "Warum bist du so traurig?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Warum bist du so traurig?",
+        "avg_logprob": -0.20219534635543823,
+        "no_speech_prob": 0.007026686333119869
+      }
+    ]
+  },
+  "55894": {
+    "text": "Ich habe auf der Straße einen Freund getroffen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Ich habe auf der Straße einen Freund getroffen.",
+        "avg_logprob": -0.22861537566551796,
+        "no_speech_prob": 0.0030415020883083344
+      }
+    ]
+  },
+  "55895": {
+    "text": "Was war das Ergebnis des Treffens?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Was war das Ergebnis des Treffens?",
+        "avg_logprob": -0.2586122850577037,
+        "no_speech_prob": 0.011064555495977402
+      }
+    ]
+  },
+  "55896": {
+    "text": "Was möchtest du trinken?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Was möchtest du trinken?",
+        "avg_logprob": -0.2150915969501842,
+        "no_speech_prob": 0.0038261173758655787
+      }
+    ]
+  },
+  "55897": {
+    "text": "Normalerweise gibt man etwas Trinkgeld.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 5.0,
+        "text": "Normalerweise gibt man etwas Trinkgeld.",
+        "avg_logprob": -0.27859752911787766,
+        "no_speech_prob": 0.012909406796097755
+      }
+    ]
+  },
+  "55898": {
+    "text": "Bitte geben Sie mir einen Trinkhalm.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Bitte geben Sie mir einen Trinkhalm.",
+        "avg_logprob": -0.3370380768409142,
+        "no_speech_prob": 0.008615325205028057
+      }
+    ]
+  },
+  "55899": {
+    "text": "Der Wischmopp ist trocken.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Der Wischmopp ist trocken.",
+        "avg_logprob": -0.36428332577149075,
+        "no_speech_prob": 0.01510612852871418
+      }
+    ]
+  },
+  "55900": {
+    "text": "Heute tragen viele Leute weiße T-Shirts.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.2800000000000002,
+        "text": "Heute tragen viele Leute weiße T-Shirts.",
+        "avg_logprob": -0.2927167649780001,
+        "no_speech_prob": 0.005023218225687742
+      }
+    ]
+  },
+  "55901": {
+    "text": "Was tust du gerade?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Was tust du gerade?",
+        "avg_logprob": -0.22036737865871853,
+        "no_speech_prob": 0.03609215468168259
+      }
+    ]
+  },
+  "55902": {
+    "text": "Wo ist der Eingang zum Tunnel?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Wo ist der Eingang zum Tunnel?",
+        "avg_logprob": -0.2585022266094501,
+        "no_speech_prob": 0.005662634968757629
+      }
+    ]
+  },
+  "55903": {
+    "text": "Bitte öffne die Tür.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Bitte öffne die Tür.",
+        "avg_logprob": -0.28509837985038755,
+        "no_speech_prob": 0.08080679923295975
+      }
+    ]
+  },
+  "55904": {
+    "text": "Ich fahre mit der U-Bahn zur Arbeit.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Ich fahre mit der U-Bahn zur Arbeit.",
+        "avg_logprob": -0.1571956230327487,
+        "no_speech_prob": 0.006282347720116377
+      }
+    ]
+  },
+  "55905": {
+    "text": "Ich übe gerade tanzen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Ich übe gerade tanzen.",
+        "avg_logprob": -0.3268356442451477,
+        "no_speech_prob": 0.016441214829683304
+      }
+    ]
+  },
+  "55906": {
+    "text": "Über dem Schreibtisch hängt ein Bild.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Über dem Schreibtisch hängt ein Bild.",
+        "avg_logprob": -0.19400651638324445,
+        "no_speech_prob": 0.009452812373638153
+      }
+    ]
+  },
+  "55907": {
+    "text": "Bei diesem Konzert waren über 1000 Zuschauer.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.16,
+        "text": "Bei diesem Konzert waren über 1000 Zuschauer.",
+        "avg_logprob": -0.23121004977396556,
+        "no_speech_prob": 0.0013403755147010088
+      }
+    ]
+  },
+  "55908": {
+    "text": "Ich habe übermorgen eine Verabredung.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Ich habe übermorgen eine Verabredung.",
+        "avg_logprob": -0.19247869508607046,
+        "no_speech_prob": 0.0031628285069018602
+      }
+    ]
+  },
+  "55909": {
+    "text": "Ich übernehme die volle Verantwortung.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Ich übernehme die volle Verantwortung.",
+        "avg_logprob": -0.277344673871994,
+        "no_speech_prob": 0.00859580934047699
+      }
+    ]
+  },
+  "55910": {
+    "text": "Ich war überrascht den Preis zu gewinnen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Ich war überrascht den Preis zu gewinnen.",
+        "avg_logprob": -0.24293793525014604,
+        "no_speech_prob": 0.009464732371270657
+      }
+    ]
+  },
+  "55911": {
+    "text": "Er hat alle Schwierigkeiten überwunden.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Er hat alle Schwierigkeiten überwunden.",
+        "avg_logprob": -0.23426672128530648,
+        "no_speech_prob": 0.01123583409935236
+      }
+    ]
+  },
+  "55912": {
+    "text": "Wir sehen uns morgen früh um 8 Uhr.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.72,
+        "text": "Wir sehen uns morgen früh um 8 Uhr.",
+        "avg_logprob": -0.32176752140124637,
+        "no_speech_prob": 0.0035349016543477774
+      }
+    ]
+  },
+  "55913": {
+    "text": "Wo sollen wir die Uhr hinhängen?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Wo sollen wir die Uhr hinhängen?",
+        "avg_logprob": -0.34654323756694794,
+        "no_speech_prob": 0.02515077032148838
+      }
+    ]
+  },
+  "55914": {
+    "text": "Er umarmt das Kind.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Er umarmt das Kind.",
+        "avg_logprob": -0.23076750040054322,
+        "no_speech_prob": 0.010270615108311176
+      }
+    ]
+  },
+  "55915": {
+    "text": "Diese Umkleide ist nur für Frauen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.7,
+        "text": "Diese Umkleide ist nur für Frauen.",
+        "avg_logprob": -0.2069216954211394,
+        "no_speech_prob": 0.007214980665594339
+      }
+    ]
+  },
+  "55916": {
+    "text": "Wo muss ich umsteigen?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Wo muss ich umsteigen?",
+        "avg_logprob": -0.20625656247138976,
+        "no_speech_prob": 0.06556225568056107
+      }
+    ]
+  },
+  "55917": {
+    "text": "Ich will im nächsten Monat umziehen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Ich will im nächsten Monat umziehen.",
+        "avg_logprob": -0.2642802521586418,
+        "no_speech_prob": 0.002688279142603278
+      }
+    ]
+  },
+  "55918": {
+    "text": "Ich will Äpfel, Bananen und Tomaten kaufen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.8,
+        "text": "Ich will Äpfel, Bananen und Tomaten kaufen.",
+        "avg_logprob": -0.2500121453229119,
+        "no_speech_prob": 0.030537953600287437
+      }
+    ]
+  },
+  "55919": {
+    "text": "Die Autos stauen sich, weil dort vorne ein Unfall passiert ist.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 5.0,
+        "text": "Die Autos stauen sich, weil dort vorne ein Unfall passiert ist.",
+        "avg_logprob": -0.22366209720310412,
+        "no_speech_prob": 0.0046772719360888
+      }
+    ]
+  },
+  "55920": {
+    "text": "Bei diesem Wettkampf nahmen ungefähr 100 Sportler teil.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 5.0,
+        "text": "Bei diesem Wettkampf nahmen ungefähr 100 Sportlerteile.",
+        "avg_logprob": -0.28565099504258895,
+        "no_speech_prob": 0.017453625798225403
+      }
+    ],
+    "batch_939_review_pass": {
+      "text": "Bei diesem Wettkampf nahmen ungefähr 100 Sportler teil.",
+      "avg_logprob": [
+        -0.3017708834479837
+      ]
+    },
+    "original_text": "Bei diesem Wettkampf nahmen ungefähr 100 Sportlerteile."
+  },
+  "55921": {
+    "text": "Was du getan hast, macht mich unglücklich.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 5.0,
+        "text": "Was du getan hast, macht mich unglücklich.",
+        "avg_logprob": -0.29462447123868124,
+        "no_speech_prob": 0.020543010905385017
+      }
+    ]
+  },
+  "55922": {
+    "text": "Wie unhöflich von mir.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Wie unhöflich von mir.",
+        "avg_logprob": -0.34638204357840796,
+        "no_speech_prob": 0.056812845170497894
+      }
+    ]
+  },
+  "55923": {
+    "text": "Stewardessen müssen bei der Arbeit Uniformen tragen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Stewardessen müssen bei der Arbeit Uniformen tragen.",
+        "avg_logprob": -0.2803632815678914,
+        "no_speech_prob": 0.005828813184052706
+      }
+    ]
+  },
+  "55924": {
+    "text": "Ich studiere an einer staatlichen Universität.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Ich studiere an einer staatlichen Universität.",
+        "avg_logprob": -0.2597746390562791,
+        "no_speech_prob": 0.005449190270155668
+      }
+    ]
+  },
+  "55925": {
+    "text": "Das kann man unmöglich schaffen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Das kann man unmöglich schaffen.",
+        "avg_logprob": -0.3727161705493927,
+        "no_speech_prob": 0.019174469634890556
+      }
+    ]
+  },
+  "55926": {
+    "text": "Unsere Katze ist ziemlich ungezogen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 5.0,
+        "text": "Unsere Katze ist ziemlich ungezogen.",
+        "avg_logprob": -0.28923563773815447,
+        "no_speech_prob": 0.004871259443461895
+      }
+    ]
+  },
+  "55927": {
+    "text": "Wasser fließt immer nach unten.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Wasser fließt immer nach unten.",
+        "avg_logprob": -0.2618501403115012,
+        "no_speech_prob": 0.022195572033524513
+      }
+    ]
+  },
+  "55928": {
+    "text": "Meine Schwester wohnt unter uns.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.5,
+        "text": "Meine Schwester wohnt unter uns.",
+        "avg_logprob": -0.33416152000427246,
+        "no_speech_prob": 0.005709573160856962
+      }
+    ]
+  },
+  "55929": {
+    "text": "Die USA liegen unterhalb von Kanada.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Die USA liegen unterhalb von Kanada.",
+        "avg_logprob": -0.31598907709121704,
+        "no_speech_prob": 0.009597551077604294
+      }
+    ]
+  },
+  "55930": {
+    "text": "Ihre Unterlagen sind schon fertig.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Ihre Unterlagen sind schon fertig.",
+        "avg_logprob": -0.2972541779279709,
+        "no_speech_prob": 0.0019950882997363806
+      }
+    ]
+  },
+  "55931": {
+    "text": "Diese Firma ist ein internationales Unternehmen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Diese Firma ist ein internationales Unternehmen.",
+        "avg_logprob": -0.30692539431832055,
+        "no_speech_prob": 0.003775793593376875
+      }
+    ]
+  },
+  "55932": {
+    "text": "Ich unterrichte jetzt Englisch.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Ich unterrichte jetzt Englisch.",
+        "avg_logprob": -0.3246687228480975,
+        "no_speech_prob": 0.015086248517036438
+      }
+    ]
+  },
+  "55933": {
+    "text": "Im Unterrichtsraum sind viele Studenten.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 5.0,
+        "text": "Im Unterrichtsraum sind viele Studenten.",
+        "avg_logprob": -0.2866966174199031,
+        "no_speech_prob": 0.0033771274611353874
+      }
+    ]
+  },
+  "55934": {
+    "text": "Wann ist morgen Unterrichtsschluss?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Wann ist morgen Unterrichtsschluss?",
+        "avg_logprob": -0.31761061151822406,
+        "no_speech_prob": 0.00835331343114376
+      }
+    ]
+  },
+  "55935": {
+    "text": "Eine Unterschrift bitte.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Eine Unterschrift bitte.",
+        "avg_logprob": -0.2859974437289768,
+        "no_speech_prob": 0.031840838491916656
+      }
+    ]
+  },
+  "55936": {
+    "text": "Mir ist sehr unwohl im Bauch.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Mir ist sehr unwohl im Bauch.",
+        "avg_logprob": -0.27879300713539124,
+        "no_speech_prob": 0.013431796804070473
+      }
+    ]
+  },
+  "55937": {
+    "text": "Hier ist Rauchen verboten.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Hier ist Rauchen verboten.",
+        "avg_logprob": -0.3715307414531708,
+        "no_speech_prob": 0.01243619341403246
+      }
+    ]
+  },
+  "55938": {
+    "text": "Ich habe viel Zeit mit diesem Buch verbracht.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Ich habe viel Zeit mit diesem Buch verbracht.",
+        "avg_logprob": -0.27067442123706525,
+        "no_speech_prob": 0.005799177102744579
+      }
+    ]
+  },
+  "55939": {
+    "text": "Er ist ein Mensch, der Respekt verdient.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Er ist ein Mensch, der Respekt verdient.",
+        "avg_logprob": -0.24325078512941087,
+        "no_speech_prob": 0.006010314915329218
+      }
+    ]
+  },
+  "55940": {
+    "text": "Ich verehre Anna.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Ich verheere Anna.",
+        "avg_logprob": -0.39254917038811576,
+        "no_speech_prob": 0.05630500987172127
+      }
+    ],
+    "batch_939_review_pass": {
+      "text": "Ich verehre Anna.",
+      "avg_logprob": [
+        -0.3828488455878364
+      ]
+    },
+    "original_text": "Ich verheere Anna."
+  },
+  "55941": {
+    "text": "Ich kann dich nicht vergessen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 1.6,
+        "text": "Ich kann dich nicht vergessen.",
+        "avg_logprob": -0.2802608278062608,
+        "no_speech_prob": 0.010286565870046616
+      }
+    ]
+  },
+  "55942": {
+    "text": "Sie hat ihr ganzes Leben lang Blumen verkauft.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.3200000000000003,
+        "text": "Sie hat ihr ganzes Leben lang Blumen verkauft.",
+        "avg_logprob": -0.25645471811294557,
+        "no_speech_prob": 0.009028949774801731
+      }
+    ]
+  },
+  "55943": {
+    "text": "Für Verkäufer ist Talent zum Reden sehr wichtig.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Für Verkäufer ist Talent zum Reden sehr wichtig.",
+        "avg_logprob": -0.16201829072088003,
+        "no_speech_prob": 0.0007130995509214699
+      }
+    ]
+  },
+  "55944": {
+    "text": "Morgens ist hier viel Verkehr.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Morgens ist hier viel Verkehr.",
+        "avg_logprob": -0.35672751339999115,
+        "no_speech_prob": 0.003202422522008419
+      }
+    ]
+  },
+  "55945": {
+    "text": "Dieser Verlag hat ein breites Programm.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Dieser Verlag hat ein breites Programm.",
+        "avg_logprob": -0.28245656689008075,
+        "no_speech_prob": 0.011127959936857224
+      }
+    ]
+  },
+  "55946": {
+    "text": "Wie hat er sich verletzt?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Wie hat er sich verletzt?",
+        "avg_logprob": -0.18578169020739468,
+        "no_speech_prob": 0.014437245205044746
+      }
+    ]
+  },
+  "55947": {
+    "text": "Ich habe mein Portemonnaie im Bahnhof verloren.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.88,
+        "text": "Ich habe mein Portemonnaie im Bahnhof verloren.",
+        "avg_logprob": -0.23190413117408754,
+        "no_speech_prob": 0.0017461981624364853
+      }
+    ]
+  },
+  "55948": {
+    "text": "Ich vermisse meine Familie.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.6,
+        "text": "Ich vermisse meine Familie.",
+        "avg_logprob": -0.4117216269175212,
+        "no_speech_prob": 0.009996839798986912
+      }
+    ]
+  },
+  "55949": {
+    "text": "Das ist ein vernünftiger Preis.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Das ist ein vernünftiger Preis.",
+        "avg_logprob": -0.18923034394780794,
+        "no_speech_prob": 0.00300028407946229
+      }
+    ]
+  },
+  "55950": {
+    "text": "Diese Sachen müssen verpackt werden.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.12,
+        "text": "Diese Sachen müssen verpackt werden.",
+        "avg_logprob": -0.26876392689618195,
+        "no_speech_prob": 0.004205071832984686
+      }
+    ]
+  },
+  "55951": {
+    "text": "Ich habe den Bus um acht Uhr verpasst.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 5.0,
+        "text": "Ich habe den Bus um acht Uhr verpasst.",
+        "avg_logprob": -0.27627148798533846,
+        "no_speech_prob": 0.00640129717066884
+      }
+    ]
+  },
+  "55952": {
+    "text": "Alle Menschen sind verschieden.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Alle Menschen sind verschieden.",
+        "avg_logprob": -0.2723127471076118,
+        "no_speech_prob": 0.013470638543367386
+      }
+    ]
+  },
+  "55953": {
+    "text": "Ich kann dir versichern, dass er dich nicht belogen hat.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.6,
+        "text": "Ich kann dir versichern, dass er dich nicht belogen hat.",
+        "avg_logprob": -0.21943906943003336,
+        "no_speech_prob": 0.0065809073857963085
+      }
+    ]
+  },
+  "55954": {
+    "text": "Sich zu verspäten ist eine schlechte Angewohnheit.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Sich zu verspäten ist eine schlechte Angewohnheit.",
+        "avg_logprob": -0.18453031447198656,
+        "no_speech_prob": 0.0026755330618470907
+      }
+    ]
+  },
+  "55955": {
+    "text": "Die Kinder verstehen die Sorgen der Eltern nicht.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Die Kinder verstehen die Sorgen der Eltern nicht.",
+        "avg_logprob": -0.23396100447728083,
+        "no_speech_prob": 0.014421680942177773
+      }
+    ]
+  },
+  "55956": {
+    "text": "Man muss alles mal versuchen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Man muss alles mal versuchen.",
+        "avg_logprob": -0.43985533714294434,
+        "no_speech_prob": 0.03198271989822388
+      }
+    ]
+  },
+  "55957": {
+    "text": "Meine Verwandte sind alle Bauern.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Meine Verwandte sind alle Bauern.",
+        "avg_logprob": -0.2734479208787282,
+        "no_speech_prob": 0.016651388257741928
+      }
+    ],
+    "batch_939_review_pass": {
+      "text": "Meine Verwandte sind alle Bauern.",
+      "avg_logprob": [
+        -0.27053289612134296
+      ]
+    },
+    "needs_manual_review": true
+  },
+  "55958": {
+    "text": "Bitte ihn schnell um Verzeihung.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Bitte ihn schnell um Verzeihung.",
+        "avg_logprob": -0.23641442507505417,
+        "no_speech_prob": 0.03820902109146118
+      }
+    ]
+  },
+  "55959": {
+    "text": "Ich habe viele Brieffreunde.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Ich habe viele Brieffreunde.",
+        "avg_logprob": -0.283597469329834,
+        "no_speech_prob": 0.02523370459675789
+      }
+    ]
+  },
+  "55960": {
+    "text": "Vielleicht hast du recht, aber ich stimme dem trotzdem nicht zu.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.16,
+        "text": "Vielleicht hast du recht, aber ich stimme dem trotzdem nicht zu.",
+        "avg_logprob": -0.21880180695477655,
+        "no_speech_prob": 0.004380027297884226
+      }
+    ]
+  },
+  "55961": {
+    "text": "Zitronen enthalten viel Vitamin C.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Zitronen enthalten viel Vitamin C.",
+        "avg_logprob": -0.2917650571236244,
+        "no_speech_prob": 0.03207618370652199
+      }
+    ]
+  },
+  "55962": {
+    "text": "Der Vogel sitzt auf dem Baum und singt.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Der Vogel sitzt auf dem Baum und sinkt.",
+        "avg_logprob": -0.19408522972038814,
+        "no_speech_prob": 0.013804811052978039
+      }
+    ],
+    "batch_939_review_pass": {
+      "text": "Der Vogel sitzt auf dem Baum und singt.",
+      "avg_logprob": [
+        -0.19858138476099288
+      ]
+    },
+    "original_text": "Der Vogel sitzt auf dem Baum und sinkt."
+  },
+  "55963": {
+    "text": "Was bedeutet diese Vokabel?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Was bedeutet diese Vokabel?",
+        "avg_logprob": -0.29067681133747103,
+        "no_speech_prob": 0.03127583488821983
+      }
+    ]
+  },
+  "55964": {
+    "text": "Vor allem du bist sehr ungezogen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.32,
+        "text": "Vor allem du bist sehr ungezogen.",
+        "avg_logprob": -0.33876680582761765,
+        "no_speech_prob": 0.021409500390291214
+      }
+    ]
+  },
+  "55965": {
+    "text": "Der Bus ist gerade vor drei Minuten abgefahren.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.2800000000000002,
+        "text": "Der Bus ist gerade vor drei Minuten abgefahren.",
+        "avg_logprob": -0.2983389028481075,
+        "no_speech_prob": 0.0035297309514135122
+      }
+    ]
+  },
+  "55966": {
+    "text": "Das ist meine Voraussetzung für einen Tausch.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Das ist meine Voraussetzung für einen Tausch.",
+        "avg_logprob": -0.21794898311297098,
+        "no_speech_prob": 0.005099506117403507
+      }
+    ]
+  },
+  "55967": {
+    "text": "Kommst du auf dem Weg zum Park an einem Geschäft vorbei?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Kommst du auf dem Weg zum Park an einem Geschäft vorbei?",
+        "avg_logprob": -0.18945471849292517,
+        "no_speech_prob": 0.019837871193885803
+      }
+    ]
+  },
+  "55968": {
+    "text": "Die vordere Tür ist der einzige Ausgang.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Die vordere Tür ist der einzige Ausgang.",
+        "avg_logprob": -0.2535038207258497,
+        "no_speech_prob": 0.0032349973917007446
+      }
+    ]
+  },
+  "55969": {
+    "text": "Ich möchte das vorher mal üben.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Ich möchte das vorher mal üben.",
+        "avg_logprob": -0.25500289418480615,
+        "no_speech_prob": 0.006335156969726086
+      }
+    ]
+  },
+  "55970": {
+    "text": "Am Vormittag habe ich eine Besprechung mit einem Kunden.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Am Vormittag habe ich eine Besprechung mit einem Kunden.",
+        "avg_logprob": -0.1931615091032452,
+        "no_speech_prob": 0.004620006307959557
+      }
+    ]
+  },
+  "55971": {
+    "text": "Vorne vor dem Haus steht ein Schneemann.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Vorne vor dem Haus steht ein Schneemann.",
+        "avg_logprob": -0.22030308736222132,
+        "no_speech_prob": 0.005544594489037991
+      }
+    ]
+  },
+  "55972": {
+    "text": "Sei vorsichtig, das ist gefährlich.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Sei vorsichtig, das ist gefährlich.",
+        "avg_logprob": -0.3406287729740143,
+        "no_speech_prob": 0.019259175285696983
+      }
+    ]
+  },
+  "55973": {
+    "text": "Ich möchte mich kurz vorstellen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Ich möchte mich kurz vorstellen.",
+        "avg_logprob": -0.38255219989352757,
+        "no_speech_prob": 0.014487442560493946
+      }
+    ]
+  },
+  "55976": {
+    "text": "Wenn mir langweilig ist, gehe ich im Wald spazieren.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Wenn mir langweilig ist, gehe ich im Wald spazieren.",
+        "avg_logprob": -0.17451818365799754,
+        "no_speech_prob": 0.007321737706661224
+      }
+    ]
+  },
+  "55977": {
+    "text": "An der Wand hängt ein Bild.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "An der Wand hängt ein Bild.",
+        "avg_logprob": -0.19456616856835104,
+        "no_speech_prob": 0.005202417261898518
+      }
+    ]
+  },
+  "55978": {
+    "text": "Wann kommst du morgen?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Wann kommst du morgen?",
+        "avg_logprob": -0.2655392289161682,
+        "no_speech_prob": 0.034926462918519974
+      }
+    ]
+  },
+  "55979": {
+    "text": "Im Süden ist es wärmer als im Norden.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Im Süden ist es wärmer als im Norden.",
+        "avg_logprob": -0.18292908668518065,
+        "no_speech_prob": 0.001437008148059249
+      }
+    ]
+  },
+  "55980": {
+    "text": "Warte kurz auf mich.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Warte kurz auf mich.",
+        "avg_logprob": -0.40172701411777073,
+        "no_speech_prob": 0.0653497576713562
+      }
+    ]
+  },
+  "55981": {
+    "text": "Warum bist du zu spät gekommen?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Warum bist du zu spät gekommen?",
+        "avg_logprob": -0.3176202286373485,
+        "no_speech_prob": 0.006294446997344494
+      }
+    ]
+  },
+  "55982": {
+    "text": "Was auch passiert, ich werde dich immer lieben.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.04,
+        "text": "Was auch passiert, ich werde dich immer lieben.",
+        "avg_logprob": -0.2705476496900831,
+        "no_speech_prob": 0.004295123275369406
+      }
+    ]
+  },
+  "55983": {
+    "text": "Mama wäscht gerade das Geschirr ab.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.32,
+        "text": "Mama wäscht gerade das Geschirr ab.",
+        "avg_logprob": -0.29141876314367565,
+        "no_speech_prob": 0.01280234009027481
+      }
+    ]
+  },
+  "55984": {
+    "text": "Möchtest du Wasser trinken?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Möchtest du Wasser trinken?",
+        "avg_logprob": -0.21669678390026093,
+        "no_speech_prob": 0.009859315119683743
+      }
+    ]
+  },
+  "55985": {
+    "text": "Ich bin genervt. Lass uns hier weggehen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Ich bin genervt. Lass uns hier weggehen.",
+        "avg_logprob": -0.30971047083536785,
+        "no_speech_prob": 0.0018985464703291655
+      }
+    ]
+  },
+  "55986": {
+    "text": "Eine Henne ist ein weibliches Huhn.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.2,
+        "text": "Eine Henne ist ein weibliches Huhn.",
+        "avg_logprob": -0.20417453455073492,
+        "no_speech_prob": 0.0020570605993270874
+      }
+    ]
+  },
+  "55987": {
+    "text": "Übermorgen ist Weihnachten.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Übermorgen ist Weihnachten.",
+        "avg_logprob": -0.30586313009262084,
+        "no_speech_prob": 0.013469217345118523
+      }
+    ]
+  },
+  "55988": {
+    "text": "Weil du zu spät gekommen bist, ist sie schon gegangen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Weil du zu spät gekommen bist, ist sie schon gegangen.",
+        "avg_logprob": -0.2317875623703003,
+        "no_speech_prob": 0.009283890947699547
+      }
+    ]
+  },
+  "55989": {
+    "text": "Anna Weind, herzzerreißend.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Anna Weind, herzzerreißend.",
+        "avg_logprob": -0.5866825495447431,
+        "no_speech_prob": 0.05691145360469818
+      }
+    ],
+    "batch_939_review_pass": {
+      "text": "Anna Weind, Herzt zerreißend.",
+      "avg_logprob": [
+        -0.5516766267163413
+      ]
+    },
+    "needs_manual_review": true
+  },
+  "55990": {
+    "text": "Diese Weintrauben sind blau.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Diese Weintrauben sind blau.",
+        "avg_logprob": -0.2184053286910057,
+        "no_speech_prob": 0.012238527648150921
+      }
+    ]
+  },
+  "55991": {
+    "text": "Herr Wagner ist ein sehr weiser alter Herr.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.5,
+        "text": "Herr Wagner ist ein sehr weiser alter Herr.",
+        "avg_logprob": -0.3583029325191791,
+        "no_speech_prob": 0.011689218692481518
+      }
+    ]
+  },
+  "55992": {
+    "text": "Ich will die Wand weiß anstreichen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.32,
+        "text": "Ich will die Wand weiß anstreichen.",
+        "avg_logprob": -0.34899138410886127,
+        "no_speech_prob": 0.010811724700033665
+      }
+    ]
+  },
+  "55993": {
+    "text": "Er wohnt sehr weit weg.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Er wohnt sehr weit weg.",
+        "avg_logprob": -0.27647019624710084,
+        "no_speech_prob": 0.017578614875674248
+      }
+    ]
+  },
+  "55994": {
+    "text": "Welches willst du?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Welches willst du?",
+        "avg_logprob": -0.30318036302924156,
+        "no_speech_prob": 0.034901365637779236
+      }
+    ]
+  },
+  "55995": {
+    "text": "Die Wellen sind zu hoch. Geh lieber nicht schwimmen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Die Wellen sind zu hoch. Geh lieber nicht schwimmen.",
+        "avg_logprob": -0.2660188674926758,
+        "no_speech_prob": 0.003923086449503899
+      }
+    ]
+  },
+  "55996": {
+    "text": "Weißt du, wie viele Länder es auf der Welt gibt?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.12,
+        "text": "Weißt du, wie viele Länder es auf der Welt gibt?",
+        "avg_logprob": -0.20896438043564558,
+        "no_speech_prob": 0.014277243055403233
+      }
+    ]
+  },
+  "55997": {
+    "text": "Dieser Schnaps ist ein wenig bitter.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.5,
+        "text": "Dieser Schnaps ist ein wenig bitter.",
+        "avg_logprob": -0.3518773208964955,
+        "no_speech_prob": 0.001576686161570251
+      }
+    ]
+  },
+  "55998": {
+    "text": "Wer ist da draußen?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Wer ist da draußen?",
+        "avg_logprob": -0.26780444383621216,
+        "no_speech_prob": 0.029976792633533478
+      }
+    ]
+  },
+  "55999": {
+    "text": "Ich arbeite in der Werbung.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Ich arbeite in der Werbung.",
+        "avg_logprob": -0.21914128552783618,
+        "no_speech_prob": 0.011178801767528057
+      }
+    ]
+  },
+  "56000": {
+    "text": "Warum wirst du so ungeduldig?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.2,
+        "text": "Warum wirst du so ungeduldig?",
+        "avg_logprob": -0.24055687280801627,
+        "no_speech_prob": 0.012545024044811726
+      }
+    ]
+  },
+  "56001": {
+    "text": "Schnell, wirf mir den Ball zu.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Schnell, wirf mir den Ball zu.",
+        "avg_logprob": -0.3630388608345619,
+        "no_speech_prob": 0.004811476916074753
+      }
+    ]
+  },
+  "56002": {
+    "text": "Dieses Buch ist ein berühmtes Werk von Goethe.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.16,
+        "text": "Dieses Buch ist ein berühmtes Werk von Goethe.",
+        "avg_logprob": -0.23708716560812557,
+        "no_speech_prob": 0.0022940291091799736
+      }
+    ]
+  },
+  "56003": {
+    "text": "Dieses Dokument hat keinen Wert mehr.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Dieses Dokument hat keinen Wert mehr.",
+        "avg_logprob": -0.262266451662237,
+        "no_speech_prob": 0.006367439404129982
+      }
+    ]
+  },
+  "56004": {
+    "text": "Wessen Schuhe sind das?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Wessen Schuhe sind das?",
+        "avg_logprob": -0.37945102561603894,
+        "no_speech_prob": 0.0037026475183665752
+      }
+    ]
+  },
+  "56005": {
+    "text": "Köln ist im Westen von Deutschland.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Köln ist im Westen von Deutschland.",
+        "avg_logprob": -0.2264129244364225,
+        "no_speech_prob": 0.008673528209328651
+      }
+    ]
+  },
+  "56006": {
+    "text": "Frankreich ist westlich von Deutschland.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Frankreich ist westlich von Deutschland.",
+        "avg_logprob": -0.2829114415428855,
+        "no_speech_prob": 0.008072744123637676
+      }
+    ]
+  },
+  "56007": {
+    "text": "Schönes Wetter heute!",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Schönes Wetter heute!",
+        "avg_logprob": -0.28778664271036786,
+        "no_speech_prob": 0.01564892940223217
+      }
+    ]
+  },
+  "56008": {
+    "text": "Wir haben bald einen Wettkampf.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.4,
+        "text": "Wir haben bald einen Wettkampf.",
+        "avg_logprob": -0.32033104449510574,
+        "no_speech_prob": 0.005274534225463867
+      }
+    ]
+  },
+  "56009": {
+    "text": "Ihre Stimme klingt wie die ihrer Mutter.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.5,
+        "text": "Ihre Stimme klingt wie die ihrer Mutter.",
+        "avg_logprob": -0.3432793984046349,
+        "no_speech_prob": 0.005448377691209316
+      }
+    ]
+  },
+  "56010": {
+    "text": "Ich komme morgen wieder.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Ich komme morgen wieder.",
+        "avg_logprob": -0.2743632085621357,
+        "no_speech_prob": 0.004375525750219822
+      }
+    ]
+  },
+  "56011": {
+    "text": "Als Schüler muss man jeden Tag die Vokabeln wiederholen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.64,
+        "text": "Als Schüler muss man jeden Tag die Vokabeln wiederholen.",
+        "avg_logprob": -0.20146351473198998,
+        "no_speech_prob": 0.0018464410677552223
+      }
+    ]
+  },
+  "56012": {
+    "text": "Auf Wiedersehen. Ich muss nach Hause.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Auf Wiedersehen. Ich muss nach Hause.",
+        "avg_logprob": -0.3688327521085739,
+        "no_speech_prob": 0.007683817762881517
+      }
+    ]
+  },
+  "56013": {
+    "text": "Wie viel kostet es insgesamt?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Wie viel kostet es insgesamt?",
+        "avg_logprob": -0.29032651484012606,
+        "no_speech_prob": 0.014534331858158112
+      }
+    ]
+  },
+  "56014": {
+    "text": "Wie viele Kisten brauchst du?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Wie viele Kisten brauchst du?",
+        "avg_logprob": -0.26935888962312177,
+        "no_speech_prob": 0.008241069503128529
+      }
+    ]
+  },
+  "56015": {
+    "text": "Der kleine Hund tobt wild herum.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.32,
+        "text": "Der kleine Hund tobt wild herum.",
+        "avg_logprob": -0.3004755215211348,
+        "no_speech_prob": 0.019687050953507423
+      }
+    ]
+  },
+  "56016": {
+    "text": "Herzlich willkommen!",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Herzlich willkommen!",
+        "avg_logprob": -0.4353111301149641,
+        "no_speech_prob": 0.01008216105401516
+      }
+    ]
+  },
+  "56017": {
+    "text": "Es ist so heiß. Kein bisschen Wind.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Es ist so heiß. Kein bisschen Wind.",
+        "avg_logprob": -0.34775230517754185,
+        "no_speech_prob": 0.00753595819696784
+      }
+    ]
+  },
+  "56018": {
+    "text": "Diesen Winter hat es hier viel geschneit.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Diesen Winter hat es hier viel geschneit.",
+        "avg_logprob": -0.237721962588174,
+        "no_speech_prob": 0.004863563925027847
+      }
+    ]
+  },
+  "56019": {
+    "text": "Wir sind alle Angestellte.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Wir sind alle Angestellte.",
+        "avg_logprob": -0.20888580517335373,
+        "no_speech_prob": 0.06033655256032944
+      }
+    ]
+  },
+  "56020": {
+    "text": "Wirklich machst du auch keine Scherze?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Wirklich machst du auch keine Scherze?",
+        "avg_logprob": -0.28804105061751145,
+        "no_speech_prob": 0.010410732589662075
+      }
+    ]
+  },
+  "56021": {
+    "text": "Wisch schnell den Tisch ab.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Wisch schnell den Tisch ab.",
+        "avg_logprob": -0.2334044873714447,
+        "no_speech_prob": 0.007827200926840305
+      }
+    ]
+  },
+  "56022": {
+    "text": "Ich wusste die Antwort schon vorher.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Ich wusste die Antwort schon vorher.",
+        "avg_logprob": -0.2954021096229553,
+        "no_speech_prob": 0.0043069119565188885
+      }
+    ]
+  },
+  "56023": {
+    "text": "Mein Vater ist Wissenschaftler.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Mein Vater ist Wissenschaftler.",
+        "avg_logprob": -0.30966634220547146,
+        "no_speech_prob": 0.00453084846958518
+      }
+    ]
+  },
+  "56024": {
+    "text": "Wo wohnst du?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Wo wohnst du?",
+        "avg_logprob": -0.2670619222852919,
+        "no_speech_prob": 0.33062854409217834
+      }
+    ]
+  },
+  "56025": {
+    "text": "Wir sehen uns nächste Woche.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Wir sehen uns nächste Woche.",
+        "avg_logprob": -0.27346783214145237,
+        "no_speech_prob": 0.0014848107239231467
+      }
+    ]
+  },
+  "56026": {
+    "text": "Anna heiratet am Wochenende.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Anna heiratet am Wochenende.",
+        "avg_logprob": -0.3357007828625766,
+        "no_speech_prob": 0.057209838181734085
+      }
+    ]
+  },
+  "56027": {
+    "text": "Ich wohne im Studentenwohnheim.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 5.0,
+        "text": "Ich wohne im Studentenwohnheim.",
+        "avg_logprob": -0.2936178996012761,
+        "no_speech_prob": 0.016843771561980247
+      }
+    ]
+  },
+  "56028": {
+    "text": "Ich wohne in einer Mietwohnung.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Ich wohne in einer Mietwohnung.",
+        "avg_logprob": -0.2110412088888032,
+        "no_speech_prob": 0.009079096838831902
+      }
+    ]
+  },
+  "56029": {
+    "text": "Mein Vater liest Zeitung im Wohnzimmer.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 5.0,
+        "text": "Mein Vater liest Zeitung im Wohnzimmer.",
+        "avg_logprob": -0.27986869428839,
+        "no_speech_prob": 0.013544555753469467
+      }
+    ]
+  },
+  "56030": {
+    "text": "Es sind viele Wolken am Himmel.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Es sind viele Wolken am Himmel.",
+        "avg_logprob": -0.2793777659535408,
+        "no_speech_prob": 0.027675030753016472
+      }
+    ]
+  },
+  "56031": {
+    "text": "Ich will auf Reisen gehen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 1.72,
+        "text": "Ich will auf Reisen gehen.",
+        "avg_logprob": -0.32079029381275176,
+        "no_speech_prob": 0.007586774416267872
+      }
+    ]
+  },
+  "56032": {
+    "text": "Ich habe ein neues Wort gelernt.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Ich habe ein neues Wort gelernt.",
+        "avg_logprob": -0.42344599664211274,
+        "no_speech_prob": 0.03421565890312195
+      }
+    ]
+  },
+  "56033": {
+    "text": "Das Wörterbuch liegt im Regal.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Das Wörterbuch liegt im Regal.",
+        "avg_logprob": -0.2693386536378127,
+        "no_speech_prob": 0.020504532381892204
+      }
+    ]
+  },
+  "56034": {
+    "text": "Das ist eine wundervolle Idee.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Das ist eine wundervolle Idee.",
+        "avg_logprob": -0.37209394344916713,
+        "no_speech_prob": 0.005684248637408018
+      }
+    ]
+  },
+  "56035": {
+    "text": "Mein Wunsch ist in Erfüllung gegangen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Mein Wunsch ist in Erfüllung gegangen.",
+        "avg_logprob": -0.19379700620969137,
+        "no_speech_prob": 0.005113130435347557
+      }
+    ]
+  },
+  "56036": {
+    "text": "Die deutsche Wurst ist sehr berühmt.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.56,
+        "text": "Die deutsche Wurst ist sehr berühmt.",
+        "avg_logprob": -0.26320728888878453,
+        "no_speech_prob": 0.007406468503177166
+      }
+    ]
+  },
+  "56037": {
+    "text": "Vier ist meine Glückszahl.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.32,
+        "text": "Vier ist meine Glückszahl.",
+        "avg_logprob": -0.37152190100062976,
+        "no_speech_prob": 0.015058832243084908
+      }
+    ]
+  },
+  "56038": {
+    "text": "Vor dem Schlafengehen muss man die Zähne putzen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.2,
+        "text": "Vor dem Schlafengehen muss man die Zähne putzen.",
+        "avg_logprob": -0.16369212004873487,
+        "no_speech_prob": 0.006143404636532068
+      }
+    ]
+  },
+  "56039": {
+    "text": "Man muss die Zahnbürste nach einer Weile austauschen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Man muss die Zahnbürste nach einer Weile austauschen.",
+        "avg_logprob": -0.16608558346827826,
+        "no_speech_prob": 0.002525563584640622
+      }
+    ]
+  },
+  "56040": {
+    "text": "Ich benutze gewöhnlich diese Zahnpasta.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Ich benutze gewöhnlich diese Zahnpasta.",
+        "avg_logprob": -0.21131031314531962,
+        "no_speech_prob": 0.002374812262132764
+      }
+    ]
+  },
+  "56041": {
+    "text": "Mein Ziel ist es, 10.000 Dollar zu sparen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.6,
+        "text": "Mein Ziel ist es, 10.000 Dollar zu sparen.",
+        "avg_logprob": -0.25555936619639397,
+        "no_speech_prob": 0.004378471057862043
+      }
+    ]
+  },
+  "56042": {
+    "text": "Es ist jetzt Zeit fürs Mittagessen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Es ist jetzt Zeit fürs Mittagessen.",
+        "avg_logprob": -0.2654954468210538,
+        "no_speech_prob": 0.003941318951547146
+      }
+    ]
+  },
+  "56043": {
+    "text": "Haben Sie die neueste Modezeitschrift?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Haben Sie die neueste Modezeitschrift?",
+        "avg_logprob": -0.2951447069644928,
+        "no_speech_prob": 0.005250544287264347
+      }
+    ]
+  },
+  "56044": {
+    "text": "Ich lese jeden Tag die Zeitung.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Ich lese jeden Tag die Zeitung.",
+        "avg_logprob": -0.3483968451619148,
+        "no_speech_prob": 0.007758920546621084
+      }
+    ]
+  },
+  "56045": {
+    "text": "An dieser Tür muss man ziehen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "An dieser Tür muss man ziehen.",
+        "avg_logprob": -0.18650178462266923,
+        "no_speech_prob": 0.0017632815288379788
+      }
+    ]
+  },
+  "56046": {
+    "text": "Meine Tante ist ziemlich reich.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Meine Tante ist ziemlich reich.",
+        "avg_logprob": -0.34105542031201447,
+        "no_speech_prob": 0.008288228884339333
+      }
+    ]
+  },
+  "56047": {
+    "text": "Ich will eine Schachtel Zigaretten kaufen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Ich will eine Schachtel Zigaretten kaufen.",
+        "avg_logprob": -0.2598213681152889,
+        "no_speech_prob": 0.0014409004943445325
+      }
+    ]
+  },
+  "56048": {
+    "text": "Wie viele Zimmer hat diese Wohnung?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Wie viele Zimmer hat diese Wohnung?",
+        "avg_logprob": -0.2402207851409912,
+        "no_speech_prob": 0.014677973464131355
+      }
+    ]
+  },
+  "56049": {
+    "text": "Die Zinsen der Banken sind alle nicht sehr hoch.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Die Zinsen der Banken sind alle nicht sehr hoch.",
+        "avg_logprob": -0.22488481365144253,
+        "no_speech_prob": 0.00398104777559638
+      }
+    ]
+  },
+  "56050": {
+    "text": "Die Zitrone ist ziemlich sauer.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.4,
+        "text": "Die Zitrone ist ziemlich sauer.",
+        "avg_logprob": -0.2727525482575099,
+        "no_speech_prob": 0.0023609844502061605
+      }
+    ]
+  },
+  "56051": {
+    "text": "Du bist zu gierig.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Du bist zu gierig.",
+        "avg_logprob": -0.33986739814281464,
+        "no_speech_prob": 0.011160876601934433
+      }
+    ]
+  },
+  "56052": {
+    "text": "Ich möchte noch ein Stück Zucker.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Ich möchte noch ein Stück Zucker.",
+        "avg_logprob": -0.2883979260921478,
+        "no_speech_prob": 0.005946700926870108
+      }
+    ]
+  },
+  "56053": {
+    "text": "Zuerst dachte ich, du wärst Japaner.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.8000000000000003,
+        "text": "Zuerst dachte ich, du wärst Japaner.",
+        "avg_logprob": -0.2543558438618978,
+        "no_speech_prob": 0.008732032962143421
+      }
+    ]
+  },
+  "56054": {
+    "text": "Warum fährst du nicht mit dem Zug?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Warum fährst du nicht mit dem Zug?",
+        "avg_logprob": -0.22813973060021034,
+        "no_speech_prob": 0.002020314335823059
+      }
+    ]
+  },
+  "56055": {
+    "text": "Zu Hause wartet ein Freund auf mich.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Zu Hause wartet ein Freund auf mich.",
+        "avg_logprob": -0.2955969621737798,
+        "no_speech_prob": 0.012596593238413334
+      }
+    ]
+  },
+  "56056": {
+    "text": "Wann machen Sie zu?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Wann machen Sie zu?",
+        "avg_logprob": -0.23999542660183376,
+        "no_speech_prob": 0.043269600719213486
+      }
+    ]
+  },
+  "56057": {
+    "text": "Streck nicht die Zunge raus und mach keine Fratzen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Streck nicht die Zunge raus und mach keine Fratzen.",
+        "avg_logprob": -0.23808198816636028,
+        "no_speech_prob": 0.009826705791056156
+      }
+    ]
+  },
+  "56058": {
+    "text": "Wann kommst du zurück?",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Wann kommst du zurück?",
+        "avg_logprob": -0.20963465720415114,
+        "no_speech_prob": 0.01728901080787182
+      }
+    ]
+  },
+  "56059": {
+    "text": "Lass uns zusammen dahin gehen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.4,
+        "text": "Lass uns zusammen dahin gehen.",
+        "avg_logprob": -0.4351813684810292,
+        "no_speech_prob": 0.0111406110227108
+      }
+    ]
+  },
+  "56060": {
+    "text": "Die Mauer brach plötzlich zusammen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Die Mauer brach plötzlich zusammen.",
+        "avg_logprob": -0.3420152989300815,
+        "no_speech_prob": 0.004189466126263142
+      }
+    ]
+  },
+  "56061": {
+    "text": "Danke fürs Zuschauen.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Danke fürs Zuschauen.",
+        "avg_logprob": -0.3979077376425266,
+        "no_speech_prob": 0.03092212602496147
+      }
+    ]
+  },
+  "56062": {
+    "text": "Ich stimme dem Direktor zu.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Ich stimme dem Direktor zu.",
+        "avg_logprob": -0.32232002778486774,
+        "no_speech_prob": 0.009852996096014977
+      }
+    ]
+  },
+  "56063": {
+    "text": "Bitte zeigen Sie mir das Zweite.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Bitte zeigen Sie mir das Zweite.",
+        "avg_logprob": -0.42133250019767066,
+        "no_speech_prob": 0.014980881474912167
+      }
+    ]
+  },
+  "56064": {
+    "text": "Zwiebeln sind die Hauptzutat in diesem Gericht.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Zwiebeln sind die Hauptzutat in diesem Gericht.",
+        "avg_logprob": -0.15807413558165231,
+        "no_speech_prob": 0.003631024155765772
+      }
+    ]
+  },
+  "56065": {
+    "text": "Die Schule ist zwischen unserem Haus und der Innenstadt.",
+    "model": "small",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 5.5,
+        "text": "Die Schule ist zwischen unserem Haus und der Innenstadt.",
+        "avg_logprob": -0.2460258368934904,
+        "no_speech_prob": 0.00471365824341774
+      }
+    ]
   }
 }

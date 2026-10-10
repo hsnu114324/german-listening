@@ -6,7 +6,58 @@ let queue=[],current=null,question=0,visible=false,transition=0,subtitles={};
 try{subtitles=JSON.parse(localStorage.getItem('hoer-mal-subtitles')||'{}')||{};}catch{}
 function shuffled(items){const result=[...items];for(let i=result.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[result[i],result[j]]=[result[j],result[i]];}return result;}
 function format(time){return Number.isFinite(time)?`${Math.floor(time/60)}:${String(Math.floor(time%60)).padStart(2,'0')}`:'0:00';}
-function updateSubtitles(){const text=subtitles[current.id]||current.text;$('subtitle').textContent=text||'這段錄音尚未加入字幕。可從頁面下方匯入德文逐字稿。';$('subtitle').hidden=!visible;$('hidden-hint').hidden=visible;$('toggle-subtitle').innerHTML=visible?'隱藏字幕 <span>−</span>':'顯示字幕 <span>＋</span>';$('toggle-subtitle').setAttribute('aria-expanded',String(visible));}
+const glossary=window.GLOSSARY||{words:{},phrases:{}};
+const phraseKeys=Object.keys(glossary.phrases).sort((a,b)=>b.length-a.length);
+const escapeRegex=text=>text.replace(/[.*+?^${}()|[\]\\]/g,'\\$&');
+const phrasePattern=phraseKeys.map(escapeRegex).join('|');
+const wordPattern=/[\p{L}\p{N}]+(?:[-’'][\p{L}\p{N}]+)*/gu;
+const subtitlePattern=new RegExp((phrasePattern?'(?:'+phrasePattern+')(?=$|[^\\p{L}\\p{N}])|':'')+wordPattern.source,'giu');
+let activeWord=null;
+function closeMeaning(returnFocus=false){
+  $('word-popover').hidden=true;
+  if(activeWord){activeWord.setAttribute('aria-expanded','false');activeWord.classList.remove('selected');if(returnFocus&&activeWord.isConnected)activeWord.focus();}
+  activeWord=null;
+}
+function renderSubtitle(text){
+  const target=$('subtitle');target.replaceChildren();
+  if(!text){target.textContent='這段錄音尚未加入字幕。可從頁面下方匯入德文逐字稿。';return;}
+  let cursor=0;
+  for(const match of text.matchAll(subtitlePattern)){
+    target.append(document.createTextNode(text.slice(cursor,match.index)));
+    const button=document.createElement('button');button.type='button';button.className='german-word';button.textContent=match[0];
+    button.dataset.word=match[0];button.setAttribute('aria-haspopup','dialog');button.setAttribute('aria-expanded','false');button.setAttribute('aria-controls','word-popover');button.setAttribute('aria-label',match[0]+'：查看中文意思');target.append(button);cursor=match.index+match[0].length;
+  }
+  target.append(document.createTextNode(text.slice(cursor)));
+}
+function placeMeaning(){
+  if(!activeWord)return;
+  const bubble=$('word-popover');const rect=activeWord.getBoundingClientRect();
+  bubble.style.left='16px';bubble.style.top='16px';
+  const box=bubble.getBoundingClientRect();
+  const viewport=window.visualViewport;const width=viewport?viewport.width:innerWidth;const height=viewport?viewport.height:innerHeight;const offset=viewport?viewport.offsetTop:0;
+  const left=Math.max(12,Math.min(rect.left+rect.width/2-box.width/2,width-box.width-12));
+  let top=rect.bottom+8;if(top+box.height>height+offset-12)top=rect.top-box.height-8;
+  top=Math.max(offset+12,Math.min(top,height+offset-box.height-12));
+  bubble.style.left=left+'px';bubble.style.top=top+'px';
+}
+$('subtitle').addEventListener('click',event=>{
+  const button=event.target.closest('.german-word');if(!button)return;
+  if(activeWord===button){closeMeaning();return;}
+  closeMeaning();activeWord=button;
+  const word=button.dataset.word;const key=word.toLocaleLowerCase('de');
+  let meaning=glossary.phrases[key]||glossary.words[key]||glossary.phrases[phraseKeys.find(p=>p.toLocaleLowerCase('de')===key)];
+  if(/^[0-9]+$/.test(word))meaning='數字 '+word;
+  if(word==='Sie')meaning='您（敬稱）；若在句首，也可能指她／他們，需看語境。';
+  if(word==='Ihnen')meaning='您／給您（敬稱與格）';
+  $('word-title').textContent=word;$('word-meaning').textContent=meaning||'這個詞尚未收錄中文意思。';
+  button.classList.add('selected');button.setAttribute('aria-expanded','true');$('word-popover').hidden=false;placeMeaning();$('close-word').focus({preventScroll:true});
+});
+$('close-word').addEventListener('click',()=>closeMeaning(true));
+document.addEventListener('pointerdown',event=>{if(!event.target.closest('#word-popover')&&!event.target.closest('.german-word'))closeMeaning();});
+document.addEventListener('keydown',event=>{if(event.key==='Escape'&&activeWord){event.preventDefault();closeMeaning(true);}});
+window.addEventListener('resize',()=>closeMeaning());
+window.addEventListener('scroll',()=>closeMeaning(),{passive:true});
+function updateSubtitles(){closeMeaning();const text=subtitles[current.id]||current.text;renderSubtitle(text);$('subtitle').hidden=!visible;$('word-hint').hidden=!visible||!text;$('hidden-hint').hidden=visible;$('toggle-subtitle').innerHTML=visible?'隱藏字幕 <span>−</span>':'顯示字幕 <span>＋</span>';$('toggle-subtitle').setAttribute('aria-expanded',String(visible));}
 function updateCount(){$('subtitle-count').textContent=`已加入 ${tracks.filter(t=>subtitles[t.id]||t.text).length} / ${tracks.length} 段字幕`;}
 async function play(){const request=transition;$('status').textContent='';try{await audio.play();}catch(error){if(request===transition&&error.name!=='AbortError')$('status').textContent='請按播放按鈕開始；若仍無法播放，請確認音檔可以讀取。';}}
 function next(shouldPlay=true){transition++;audio.pause();if(!queue.length){queue=shuffled(tracks);if(current&&queue.length>1&&queue[queue.length-1].id===current.id)[queue[0],queue[queue.length-1]]=[queue[queue.length-1],queue[0]];}current=queue.pop();question++;visible=false;updateSubtitles();$('track-id').textContent=current.id;$('counter').textContent=`第 ${question} 題`;$('seek').value=0;$('elapsed').textContent='0:00';$('duration').textContent='0:00';$('status').textContent='';audio.src=current.src;audio.playbackRate=Number($('speed').value);audio.load();if(shouldPlay)play();}

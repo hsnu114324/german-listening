@@ -23,3 +23,14 @@ button,a,summary,select{touch-action:manipulation}
 }
 @media(max-width:360px){header{padding:14px 16px 10px}.brand{gap:8px;font-size:19px}.brand-note{font-size:11px;margin-left:0}main{padding:0 12px;gap:16px}.practice{padding:18px 16px 12px}.intro h1{font-size:27px}.audio-options{font-size:12px}}
 @media(max-width:850px) and (max-height:740px){.track-meta{margin:14px 0 8px}.sound-art{height:35px;transform:scaleY(.75)}.listen-prompt{margin:8px 0 12px}.practice{padding-top:18px}.subtitle-box{margin-top:12px}.next-row{margin-top:12px}main{gap:14px}}
+/* Tap-to-translate glossary, also usable with keyboard focus. */
+.german-word{font:inherit;line-height:1.45;color:inherit;background:transparent;border-radius:5px;padding:5px 3px;min-height:44px;border-bottom:1px dotted #9bae94;max-width:100%;overflow-wrap:anywhere;white-space:normal;text-align:left;vertical-align:baseline;touch-action:manipulation}
+.german-word:hover,.german-word.selected{background:#e0ead9;color:#214e35;border-bottom-color:#214e35}
+#word-hint{font-size:12px;line-height:1.5;color:#718168;margin:4px 0 10px}
+.word-popover[hidden]{display:none}
+.word-popover{position:fixed;z-index:20;width:min(340px,calc(100vw - 24px));padding:12px 16px 16px;border:1px solid #c5d6b8;border-radius:14px;background:#fffef5;box-shadow:0 10px 36px #203b352b;max-height:calc(100dvh - 32px);overflow-y:auto}
+.word-popover-top{display:flex;align-items:center;justify-content:space-between;gap:14px;min-width:0}
+#word-title{font-size:17px;font-weight:600;color:#31523f;overflow-wrap:anywhere}
+#close-word{background:transparent;color:#62735d;font-size:26px;min-width:44px;min-height:44px;border-radius:8px;padding:0;flex-shrink:0}
+#word-meaning{font-size:16px;line-height:1.7;margin:4px 0 10px;color:#233b36;overflow-wrap:anywhere}
+.meaning-note{font-size:11px;color:#849079;line-height:1.5}
